@@ -1,0 +1,24 @@
+{
+  "name": "juan-pablo-villegas",
+  "version": "1.0.0",
+  "description": "Art portfolio",
+  "main": "server.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aficiomaquinas/juan-pablo-villegas.git"
+  },
+  "keywords": [
+    "portfolio",
+    "gohugo",
+    "juanpablovillegas"
+  ],
+  "author": "Victor Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aficiomaquinas/juan-pablo-villegas/issues"
+  },
+  "homepage": "https://github.com/aficiomaquinas/juan-pablo-villegas#readme"
+}
