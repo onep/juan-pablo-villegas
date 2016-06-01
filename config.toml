@@ -2,6 +2,7 @@ title = "Juan Pablo Villegas"
 theme = "juan-pablo-villegas"
 baseurl = "http://jpvd.xyz/"
 languageCode = "en-us"
+googleAnalytics = ""
 
 [permalinks]
 	artwork = "/:year/:title/"
