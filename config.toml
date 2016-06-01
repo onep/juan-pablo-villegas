@@ -1,7 +1,7 @@
+title = "Juan Pablo Villegas"
 theme = "juan-pablo-villegas"
 baseurl = "http://jpvd.xyz/"
 languageCode = "en-us"
-title = "Juan Pablo Villegas"
 
 [permalinks]
 	artwork = "/:year/:title/"
