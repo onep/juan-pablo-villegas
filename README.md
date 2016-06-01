@@ -7,6 +7,7 @@ Dependencies
 - Hugo
 - Typescript
 - Gulp cli
+- Bundler
 
 
 Installation
