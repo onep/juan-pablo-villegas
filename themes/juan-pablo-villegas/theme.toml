@@ -4,18 +4,13 @@
 name = "Juan Pablo Villegas"
 license = "MIT"
 licenselink = "https://github.com/aficiomaquinas/juan-pablo-villegas/blob/master/LICENSE"
-description = ""
-homepage = "http://juanpablovillegas.com/"
-tags = ["", ""]
-features = ["", ""]
+description = "Artist portfolio"
+homepage = "http://jpvd.xyz/"
 min_version = 0.14
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Victor Gonzalez"
+  homepage = "http://victtor.com"
 
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+[permalinks]
+	artwork = "/:year/:title/"
