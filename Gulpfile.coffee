@@ -5,8 +5,15 @@ compass    = require 'gulp-compass'
 minifyCSS  = require 'gulp-minify-css'
 ts         = require 'gulp-typescript'
 
+theme = 'themes/juan-pablo-villegas/static'
+paths =
+  sass: theme + '/sass/**/*.{sass|scss}'
+  ts:   theme + '/ts/**/*.ts'
+  css:  theme + '/css'
+  js:   theme + '/js'
+
 gulp.task 'compass', ->
-  gulp.src 'themes/juan-pablo-villegas/static/sass/**/*.{sass|scss}'
+  gulp.src paths.sass
     .pipe plumber
       errorHandler: (error) ->
         console.log error.message
@@ -19,10 +26,10 @@ gulp.task 'compass', ->
     .on 'error', (err) ->
       return
     .pipe minifyCSS()
-    .pipe gulp.dest 'themes/juan-pablo-villegas/static/css'
+    .pipe gulp.dest paths.css
 
 gulp.task 'typescript', ->
-  gulp.src 'themes/juan-pablo-villegas/static/ts/**/*.ts'
+  gulp.src paths.ts
     .pipe plumber
       errorHandler: (error) ->
         console.log error.message
@@ -30,6 +37,10 @@ gulp.task 'typescript', ->
         return
     .pipe ts
       noImplicitAny: true
-    .pipe gulp.dest 'themes/juan-pablo-villegas/static/js'
+    .pipe gulp.dest paths.js
+
+gulp.task 'watch', ->
+  gulp.watch theme + '/sass/**/*.{sass,scss}', ['compass']
+  gulp.watch paths.ts, ['typescript']
 
 gulp.task 'default', ['compass', 'typescript']
