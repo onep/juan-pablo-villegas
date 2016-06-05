@@ -11,9 +11,8 @@ gutil      = require 'gulp-util'
 sourcemaps = require 'gulp-sourcemaps'
 tsify      = require 'tsify'
 uglify     = require 'gulp-uglify'
-# assign     = require 'lodash.assign'
-# watchify   = require 'watchify'
-# browserifyInc = require 'browserify-incremental'
+assign     = require 'lodash.assign'
+browserifyInc = require 'browserify-incremental'
 
 theme = 'themes/juan-pablo-villegas/static'
 paths =
@@ -28,11 +27,13 @@ customOpts = {
   debug: true
   cache: {}
   packageCache: {}
-  # poll: true
 }
 
+bIncOpts = assign({}, browserifyInc.args, customOpts)
+
+
 gulp.task 'browserify', () ->
-  b = browserify(customOpts)
+  b = browserifyInc(browserify(customOpts), './browserify-cache.json')
   return b
     .plugin tsify, {noImplicitAny: false}
     .bundle()
@@ -44,28 +45,6 @@ gulp.task 'browserify', () ->
     .on('error', gutil.log.bind(gutil, 'Uglify error:'))
     .pipe sourcemaps.write('.')
     .pipe gulp.dest(paths.js)
-
-
-# gulp.task 'watchify', () ->
-#   opts = assign {}, watchify.args, customOpts
-#   b    = watchify browserify(opts)
-#   rebundle = () ->
-#     return b
-#       .plugin(tsify, {noImplicitAny: true})
-#       .bundle()
-#       .on 'error', gutil.log.bind(gutil, 'Browserify error:')
-#       .pipe source(paths.bundleName)
-#       .pipe buffer()
-#       .pipe sourcemaps.init({loadmaps: true})
-#       .pipe(uglify())
-#       # .on('error', gutil.log.bind(gutil, 'Uglify error:'))
-#       # .pipe(header(banner, { pkg : pkg } ))
-#       .pipe sourcemaps.write(paths.js)
-#       .pipe gulp.dest(paths.js)
-
-#   b.on 'update', rebundle
-#   b.on 'log', gutil.log
-#   return rebundle()
 
 
 gulp.task 'compass', ->
@@ -90,7 +69,5 @@ gulp.task 'watch', ->
   gulp.watch theme + '/ts/**/*.ts', ['browserify']
 
 
-# gulp.task 'default', ['compass', 'browserify', 'watchify']
-# gulp.task 'watch', ['compass', 'browserify', 'watch']
 gulp.task 'default', ['compass', 'browserify', 'watch']
 gulp.task 'build', ['compass', 'browserify']

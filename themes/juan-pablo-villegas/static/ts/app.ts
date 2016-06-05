@@ -1,3 +1,3 @@
 import utils = require('./utils')
-console.log('Hello wwworld');
+console.log('Hello world');
 utils;
