@@ -1,7 +1,8 @@
 +++
 date = "2015-05-31T22:40:29-05:00"
-title = "tele"
 featuredimage = ""
+title = "tele"
+
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

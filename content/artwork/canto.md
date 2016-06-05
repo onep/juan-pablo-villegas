@@ -1,7 +1,8 @@
 +++
 date = "2016-05-31T22:40:16-05:00"
-title = "canto"
 featuredimage = ""
+title = "canto"
+
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

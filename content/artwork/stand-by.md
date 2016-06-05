@@ -1,7 +1,8 @@
 +++
 date = "2016-05-31T22:40:07-05:00"
-title = "stand by"
 featuredimage = ""
+title = "stand by"
+
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

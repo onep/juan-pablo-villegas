@@ -1,7 +1,8 @@
 +++
 date = "2015-05-31T22:40:25-05:00"
-title = "la purga"
 featuredimage = ""
+title = "la purga"
+
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

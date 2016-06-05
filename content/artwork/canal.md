@@ -1,7 +1,8 @@
 +++
 date = "2015-05-31T22:40:32-05:00"
-title = "canal"
 featuredimage = ""
+title = "canal"
+
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
