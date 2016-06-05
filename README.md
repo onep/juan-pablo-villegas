@@ -8,6 +8,7 @@ Dependencies
 - Typescript
 - Gulp cli
 - Bundler
+- Typings
 
 
 Installation

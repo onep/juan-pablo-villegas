@@ -4,16 +4,16 @@ plumber    = require 'gulp-plumber'
 compass    = require 'gulp-compass'
 minifyCSS  = require 'gulp-minify-css'
 ts         = require 'gulp-typescript'
-# watchify   = require 'watchify'
 browserify = require 'browserify'
 source     = require 'vinyl-source-stream'
 buffer     = require 'vinyl-buffer'
 gutil      = require 'gulp-util'
 sourcemaps = require 'gulp-sourcemaps'
-assign     = require 'lodash.assign'
 tsify      = require 'tsify'
 uglify     = require 'gulp-uglify'
-browserifyInc = require 'browserify-incremental'
+# assign     = require 'lodash.assign'
+# watchify   = require 'watchify'
+# browserifyInc = require 'browserify-incremental'
 
 theme = 'themes/juan-pablo-villegas/static'
 paths =
@@ -21,7 +21,7 @@ paths =
   ts:   theme + '/ts/**/*.ts'
   css:  theme + '/css'
   js:   theme + '/js'
-  bundleName: 'bundle.js'
+  bundleName:   'bundle.js'
 
 customOpts = {
   entries: [theme + '/ts/app.ts']
@@ -34,7 +34,7 @@ customOpts = {
 gulp.task 'browserify', () ->
   b = browserify(customOpts)
   return b
-    .plugin tsify, {noImplicitAny: true}
+    .plugin tsify, {noImplicitAny: false}
     .bundle()
     .on 'error', gutil.log.bind(gutil, 'Browserify error:')
     .pipe source(paths.bundleName)
@@ -42,7 +42,7 @@ gulp.task 'browserify', () ->
     .pipe sourcemaps.init({loadmaps: true})
     .pipe(uglify())
     .on('error', gutil.log.bind(gutil, 'Uglify error:'))
-    .pipe sourcemaps.write(paths.js)
+    .pipe sourcemaps.write('.')
     .pipe gulp.dest(paths.js)
 
 
@@ -87,7 +87,7 @@ gulp.task 'compass', ->
 
 gulp.task 'watch', ->
   gulp.watch theme + '/sass/**/*.{sass,scss}', ['compass']
-  gulp.watch theme + '/ts/app.ts', ['browserify']
+  gulp.watch theme + '/ts/**/*.ts', ['browserify']
 
 
 # gulp.task 'default', ['compass', 'browserify', 'watchify']
