@@ -3,6 +3,7 @@ theme = "juan-pablo-villegas"
 baseurl = "http://jpvd.xyz/"
 languageCode = "en-us"
 googleAnalytics = ""
+relativeurls = true
 
 [permalinks]
 	artwork = "/:year/:title/"

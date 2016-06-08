@@ -1,7 +1,92 @@
-/*
-  Welcome to Compass.
-  In this file you should write your main styles. (or centralize your imports)
-  Import this file using the following HTML or equivalent:
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+@import 'init'
+@import "compass/css3/selection"
 
-@import compass/reset
+$accent-color: hsla(212, 100%, 50%, 1)
+$text-color: hsla(212, 10%, 30%, 1)
+
+// Text selection color
+*
+	+selection(desaturate(tint($accent-color, 85%), 40%), tint($text-color, 10%))
+
+html
+	font-family: 'Fira Mono', Consolas, monaco, monospace
+	color: $text-color
+
+.wrapper
+	+at(1)
+		padding: 0 30px
+	+from(2)
+		margin: 0 12.5%
+
+.site-title
+	a
+		&:link, &:visited
+			text-decoration: none
+			color: $text-color
+			.no-ismobile &, .ismobile &, 
+				text-decoration: none
+				color: $text-color
+		&:focus, &:hover
+			.no-ismobile &
+				color: tint($text-color, 20%)
+		&:active
+			color: shade($accent-color, 30%)
+			text-decoration: underline
+			.no-ismobile &, .ismobile &, 
+				color: shade($accent-color, 30%)
+				text-decoration: underline
+
+a
+	&:link, &:visited
+		nav &
+			color: $text-color
+			.no-ismobile &
+				text-decoration: none
+			.ismobile &
+				text-decoration: underline
+		article &
+			color: desaturate(tint($accent-color, 5%), 50%)
+			text-decoration: underline
+	&:focus, &:hover
+		.no-ismobile &
+			color: tint($text-color, 20%)
+		nav &
+			.no-ismobile &
+				text-decoration: underline
+	&:active
+		color: shade($accent-color, 30%)
+		text-decoration: underline
+		.no-ismobile &, .ismobile &, 
+			color: shade($accent-color, 30%)
+			text-decoration: underline
+
+.vimeo
+	position: relative
+	padding-bottom: 56.25%
+	padding-top: 30px
+	height: 0
+	overflow: hidden
+	margin-top: 2em
+	margin-bottom: 2em
+	iframe
+		position: absolute
+		top: 0
+		left: 0
+		width: 100%
+		height: 100%
+
+nav
+	padding-top: 1em
+	dl
+		dt
+			font-weight: bold
+			text-align: right
+			margin-top: 2em
+			&:first-child
+				margin-top: 0
+
+		dd
+			margin: 0
+
+footer
+	padding-bottom: 4em

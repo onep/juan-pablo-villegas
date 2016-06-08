@@ -1,0 +1,12 @@
+{
+    "cache": true,
+    "options" : [
+        "setClasses",
+        "addTest",
+        "html5printshiv",
+        "html5shiv",
+        "testProp",
+        "fnBind"
+    ],
+    "tests": ["touchevents"]
+}

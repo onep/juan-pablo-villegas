@@ -9,6 +9,7 @@ Dependencies
 - Gulp cli
 - Bundler
 - Typings
+- gsutil
 
 
 Installation
@@ -21,6 +22,10 @@ Installation
 Todo
 --
 
-- Dummy content, images, vimeo, take from spf's demo project.
-- Actual styling
-- Actual js
+- Dummy text content, images, vimeo.
+- About page
+- Susy grids
+- Featured image js
+- google cloud storage upload, gulp prod upload o con git?
+- iam access juan pablo y yo
+- google analytics
