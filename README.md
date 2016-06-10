@@ -22,10 +22,16 @@ Installation
 Todo
 --
 
-- Dummy text content, images, vimeo.
+- preload images
+	- get all data attrs
+	- preload
+	- store in arr
+	- onhover, get name
+	- insert img into sibling featured image
+- Fira Sans?
+- type rendering mix?
 - About page
-- Susy grids
-- Featured image js
+- Susy grids?
 - google cloud storage upload, gulp prod upload o con git?
 - iam access juan pablo y yo
 - google analytics

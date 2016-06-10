@@ -2,10 +2,17 @@
 <nav>
     <dl>
     {{ range .Data.Pages.GroupByDate "2006" }}
-      <dt>{{ .Key }}</dt>
-      {{ range .Pages }}
-        <dd><a href="{{ .Permalink }}" data-featured-image-url="{{ .Params.featuredimage }}">{{ .Title }}</a></dd>
-      {{ end }}
+      <div class="year-box">
+        <div class="year-image">
+          <dt>{{ .Key }}</dt>
+          <dd class="featured-image hidden-featured-image"><dd>
+        </div>
+        <div class="pieces">
+          {{ range .Pages }}
+            <dd><a href="{{ .Permalink }}" data-featured-image-url="{{ .Params.featuredimage }}">{{ .Title }}</a></dd>
+          {{ end }}
+        </div>
+      </div>
     {{ end }}
     </dl>
 </nav>

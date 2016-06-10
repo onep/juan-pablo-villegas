@@ -3,7 +3,7 @@ _          = require 'lodash'
 gulp       = require 'gulp'
 plumber    = require 'gulp-plumber'
 compass    = require 'gulp-compass'
-minifyCSS  = require 'gulp-minify-css'
+cleanCSS  = require 'gulp-clean-css'
 ts         = require 'gulp-typescript'
 browserify = require 'browserify'
 source     = require 'vinyl-source-stream'
@@ -14,6 +14,7 @@ tsify      = require 'tsify'
 uglify     = require 'gulp-uglify'
 modernizr  = require 'gulp-modernizr'
 concat     = require 'gulp-concat'
+rename     = require 'gulp-rename'
 walkSync   = require 'walk-sync'
 debug  = require 'gulp-debug'
 browserifyInc = require 'browserify-incremental'
@@ -27,14 +28,16 @@ paths =
   js:   theme + '/js'
   bundleName:   'bundle.js'
 
+moduleImports = _.map([
+  'jquery/dist/jquery.js'
+  'sticky-kit/dist/sticky-kit.js'
+  'ismobilejs/isMobile.js'
+], (str) -> "node_modules/" + str)
+
 localImports = _.map([
   'modernizr.js'
   'bundle.js'
 ], (str) -> paths.js + "/" + str)
-
-moduleImports = _.map([
-  'ismobilejs/isMobile.js'
-], (str) -> "node_modules/" + str)
 
 customOpts = {
   entries: [theme + '/ts/app.ts']
@@ -69,8 +72,9 @@ gulp.task 'modernizr', ->
     .pipe gulp.dest(paths.js)
 
 
-gulp.task 'concat', ->
-  arr = [moduleImports..., localImports..., paths.js + paths.bundleName]
+gulp.task 'concat', ['browserify'], ->
+  arr = [moduleImports..., localImports...]
+  # console.log arr
   gulp.src arr
     .pipe concat('concat.js')
     .pipe buffer()
@@ -92,10 +96,15 @@ gulp.task 'compass', ->
       config_file: './config.rb'
       css: 'css'
       sass: 'sass'
-    .on 'error', (err) ->
-      return
-    .pipe minifyCSS()
+    .on('error', gutil.log.bind(gutil, 'Compass error:'))
     .pipe gulp.dest paths.css
+    # .pipe rename
+    #   suffix: '.min'
+    # .pipe cleanCSS {debug: true}, (details) ->
+    #   console.log(details.name + ': ' + details.stats.originalSize)
+    #   console.log(details.name + ': ' + details.stats.minifiedSize)
+    # .on('error', gutil.log.bind(gutil, 'clean-css error:'))
+    # .pipe gulp.dest paths.css
 
 
 gulp.task 'js', ['browserify', 'concat']
