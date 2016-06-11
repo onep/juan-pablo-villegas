@@ -30,7 +30,6 @@ Todo
 	- insert img into sibling featured image
 - Fira Sans?
 - type rendering mix?
-- About page
 - Susy grids?
 - google cloud storage upload, gulp prod upload o con git?
 - iam access juan pablo y yo

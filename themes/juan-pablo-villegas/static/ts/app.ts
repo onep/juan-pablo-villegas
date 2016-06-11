@@ -39,9 +39,9 @@ enquire.register("screen and (min-width: 769px)", {
     },
 });
 
-$(".pieces").stick_in_parent({offset_top: 36});
-$(".year-image").stick_in_parent({bottoming: true, offset_top: 72});
-$(".year-image dt").stick_in_parent({bottoming: false, offset_top: 0});
+// $(".pieces").stick_in_parent({offset_top: 36});
+// $(".year-image").stick_in_parent({bottoming: true, offset_top: 72});
+// $(".year-image dt").stick_in_parent({bottoming: false, offset_top: 0});
 
 // $(".year-image").stick_in_parent({bottoming: true});
 // $(".year-image dd").stick_in_parent({bottoming: true, offset_top: 90});
