@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "requirejs": "registry:npm/requirejs#2.2.0+20160319062357"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160417213236",
+    "modernizr": "registry:dt/modernizr#3.2.0+20160215162030"
   }
 }

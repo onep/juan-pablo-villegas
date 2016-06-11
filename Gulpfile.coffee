@@ -32,6 +32,7 @@ moduleImports = _.map([
   'jquery/dist/jquery.js'
   'sticky-kit/dist/sticky-kit.js'
   'ismobilejs/isMobile.js'
+  'enquire.js/dist/enquire.js'
 ], (str) -> "node_modules/" + str)
 
 localImports = _.map([
