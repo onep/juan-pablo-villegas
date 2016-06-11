@@ -156,14 +156,14 @@ nav dl
     &:first-child
       margin-top: 0
     .year-image
-      +from(3)
-        +leader(-3, $ms-base-next, margin)
+      // +from(3)
+      +leader(-3, $ms-base-next, margin)
       dt
         text-align: right
-        +from(3)
-          +leader(3, $ms-base-next, padding)
+        +leader(3, $ms-base-next, padding)
       dd.featured-image
-    .pieces   
+    .pieces
+      // margin-top: 2em 
       +to(2)
         +leader(2, $ms-base, margin)
       +from(3)
