@@ -7,3 +7,4 @@ relativeurls = true
 
 [permalinks]
 	artwork = "/:year/:title/"
+	page = "/:title/"

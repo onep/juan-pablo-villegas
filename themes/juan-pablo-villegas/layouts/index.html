@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 <nav>
     <dl>
-    {{ range .Data.Pages.GroupByDate "2006" }}
+    {{ range (where .Data.Pages "Section" "artwork").GroupByDate "2006" }}
       <div class="year-box">
         <div class="year-image">
           <dt>{{ .Key }}</dt>

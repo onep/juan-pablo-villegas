@@ -1,7 +1,3 @@
-// import utils = require('./utils')
-
-// console.log('Hello wworld');
-
 declare var isMobile: any;
 declare var enquire: any;
 
