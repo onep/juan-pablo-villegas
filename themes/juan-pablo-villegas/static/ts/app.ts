@@ -16,7 +16,7 @@ Modernizr.addTest('ismobile', function() {
 enquire.register("screen and (max-width: 768px)", {
     match: function () {
         console.log('matched mobile');
-        $(".year-image").stick_in_parent({offset_top: 18});
+        $(".year-image").stick_in_parent({offset_top: 36});
     },
     unmatch: function () {
         console.log('unmatched mobile');
