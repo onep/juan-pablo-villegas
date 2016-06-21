@@ -33,6 +33,8 @@ moduleImports = _.map([
   'sticky-kit/dist/sticky-kit.js'
   'ismobilejs/isMobile.js'
   'enquire.js/dist/enquire.js'
+  'pre-loader/pre-loader.js'
+  'object-fit-images/dist/ofi.browser.js'
 ], (str) -> "node_modules/" + str)
 
 localImports = _.map([
@@ -99,13 +101,6 @@ gulp.task 'compass', ->
       sass: 'sass'
     .on('error', gutil.log.bind(gutil, 'Compass error:'))
     .pipe gulp.dest paths.css
-    # .pipe rename
-    #   suffix: '.min'
-    # .pipe cleanCSS {debug: true}, (details) ->
-    #   console.log(details.name + ': ' + details.stats.originalSize)
-    #   console.log(details.name + ': ' + details.stats.minifiedSize)
-    # .on('error', gutil.log.bind(gutil, 'clean-css error:'))
-    # .pipe gulp.dest paths.css
 
 
 gulp.task 'js', ['browserify', 'concat']

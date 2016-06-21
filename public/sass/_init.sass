@@ -1,0 +1,82 @@
+@import 'normalize'
+@import "compass"
+@import "modular-scale"
+@import "breakpoint"
+@import "breakpoint-slicer"
+
+$slicer-breakpoints: 0 480px 768px 1024px 1224px 1824px
+//                    1     2     3      4      5
+
+// Modular Scale
+$ms-base: 16px
+$ms-base-next: 18px
+$ms-ratio: 1.25
+$ms-ratio-next: 1.333
+
+// Compass Vertical Rhythm Settings
+$base-font-size: $ms-base // Sets the base font size
+$base-line-height: $base-font-size * 1.5 // Sets the base line height
+$round-to-nearest-half-line: true // Allows compass to round to  multiples of 0.5x line height 
+
+
+$h1-fz: ms(5)
+$h2-fz: ms(4)
+$h3-fz: ms(3)
+$h4-fz: ms(2)
+$h5-fz: ms(1)
+$h6-fz: ms(0)
+
++to(2)
+  +establish-baseline
+  h1
+    +adjust-font-size-to($h1-fz)
+  h2
+    +adjust-font-size-to($h2-fz)
+  h3
+    +adjust-font-size-to($h3-fz)
+  h4
+    +adjust-font-size-to($h4-fz)
+  h5
+    +adjust-font-size-to($h5-fz)
+  h6
+    +adjust-font-size-to($h6-fz)
+  nav dl
+    dd, dt
+      +adjust-font-size-to($h6-fz, 2)
+
++at(3)
+  +establish-baseline($ms-base-next)
+  h1
+    +adjust-font-size-to(ms(5, $ms-base-next, $ms-ratio))
+  h2
+    +adjust-font-size-to(ms(4, $ms-base-next, $ms-ratio))
+  h3
+    +adjust-font-size-to(ms(3, $ms-base-next, $ms-ratio))
+  h4
+    +adjust-font-size-to(ms(2, $ms-base-next, $ms-ratio))
+  h5
+    +adjust-font-size-to(ms(1, $ms-base-next, $ms-ratio))
+  h6
+    +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio))
+  nav dl
+    dd, dt
+      +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio), 2)
+
+
++from(4)
+  +establish-baseline($ms-base-next)
+  h1
+    +adjust-font-size-to(ms(5, $ms-base-next, $ms-ratio-next))
+  h2
+    +adjust-font-size-to(ms(4, $ms-base-next, $ms-ratio-next))
+  h3
+    +adjust-font-size-to(ms(3, $ms-base-next, $ms-ratio-next))
+  h4
+    +adjust-font-size-to(ms(2, $ms-base-next, $ms-ratio-next))
+  h5
+    +adjust-font-size-to(ms(1, $ms-base-next, $ms-ratio-next))
+  h6
+    +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio-next))
+  nav dl
+    dd, dt
+      +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio-next), 2)

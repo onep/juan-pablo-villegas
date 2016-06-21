@@ -3,8 +3,58 @@
   
   <url>
     <loc>http://jpvd.xyz/</loc>
-    <lastmod>2016-05-31T22:40:16-05:00</lastmod>
+    <lastmod>2016-06-10T20:35:19-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/about/</loc>
+    <lastmod>2016-06-10T20:35:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba10/</loc>
+    <lastmod>2016-06-09T23:08:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba9/</loc>
+    <lastmod>2016-06-09T23:08:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba8/</loc>
+    <lastmod>2016-06-09T22:07:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba6/</loc>
+    <lastmod>2016-06-09T22:07:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba5/</loc>
+    <lastmod>2016-06-09T22:07:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba4/</loc>
+    <lastmod>2016-06-09T22:07:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba3/</loc>
+    <lastmod>2016-06-09T22:07:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba2/</loc>
+    <lastmod>2016-06-09T22:07:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2016/prueba/</loc>
+    <lastmod>2016-06-06T19:40:26-05:00</lastmod>
   </url>
   
   <url>
@@ -55,6 +105,21 @@
   <url>
     <loc>http://jpvd.xyz/2015/la-purga/</loc>
     <lastmod>2015-05-31T22:40:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2014/prueba13/</loc>
+    <lastmod>2014-06-09T23:08:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2014/prueba12/</loc>
+    <lastmod>2014-06-09T23:08:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jpvd.xyz/2014/prueba11/</loc>
+    <lastmod>2014-06-09T23:08:31-05:00</lastmod>
   </url>
   
 </urlset>

@@ -3,12 +3,12 @@ declare var enquire: any;
 declare var preLoader: any;
 declare var objectFitImages: any;
 
-// interface JQueryStatic {
-//     stick_in_parent: any;
-// }
-// interface JQuery {
-//     stick_in_parent: any;
-// }
+interface JQueryStatic {
+    stick_in_parent: any;   
+}
+interface JQuery {
+    stick_in_parent: any;   
+}
 
 objectFitImages();
 
