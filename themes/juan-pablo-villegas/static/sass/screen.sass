@@ -28,11 +28,6 @@ $wrapper-mid-margin: .0870
     max-width: 1224px -(1224px * 2 * $wrapper-mid-margin)
 
 .site-title
-  // &.site-title-home
-  //   +to(2)
-  //     +trailer(-6, $ms-base, margin)
-  //   +from(3)
-  //     +trailer(-6, $ms-base-next, margin)
   a
     &:link, &:visited
       text-decoration: none
@@ -93,25 +88,6 @@ a
     width: 100%
     height: 100%
 
-// nav dl
-//   +display-flex
-//   +flex-direction(column)
-//   .year-box
-//     +display-flex
-//     +flex-direction(row-reverse)
-//     +to(2)
-//       +leader(2, $ms-base, margin)
-//     +from(3)
-//       +leader(2, $ms-base-next, margin)
-//     .year-image
-//       +flex-grow(1)
-//       +display-flex
-//       +flex-direction(column)
-//       dt
-//         text-align: right
-//     .pieces
-//       +flex-basis(220px)
-
 nav dl
   +leader(2, $ms-base, margin)
   .year-box
@@ -131,21 +107,12 @@ nav dl
       width: 220px
 
 dd.featured-image
-  // img
-  //   object-fit: cover
-  //   font-family: 'object-fit: cover;'
-  //   display: none
-  //   &.visible-image
-  //     display: inline-block
-  // &.hidden-featured-image
-    // opacity: 0
   // +single-transition(opacity, .5s, ease-in)
   overflow: hidden
-  background-size: cover
+  background-size: cover !important
   opacity: 0
-  // background: url(http://placehold.it/160x90) no-repeat center center
   // background-color: black
-  $viewport-height-adj: calc(100vh - 15em)
+  $viewport-height-adj: calc(100vh - 13em)
   +at(1)
     display: none
   +at(2)
@@ -164,14 +131,12 @@ nav dl
     &:first-child
       margin-top: 0
     .year-image
-      // +from(3)
       +leader(-3, $ms-base-next, margin)
       dt
         text-align: right
         +leader(3, $ms-base-next, padding)
       dd.featured-image
     .pieces
-      // margin-top: 2em 
       +to(2)
         +leader(2, $ms-base, margin)
       +from(3)
