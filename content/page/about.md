@@ -18,7 +18,9 @@ My work has developed from thinking about filmmaking, as a way to bring together
 
 [bio{.}pdf]({{< baseurl >}}files/bio.pdf)
 
-<script type="text/javascript" language="javascript">for(coded="ua@O3Gz.WFl",key="xk8feV3NUSHWLqv9J7DKd1AmyGwT4iszMjQFXo0Iarl5OPnhR6cCYZgBbpu2Et",shift=coded.length,link="",i=0;i<coded.length;i++)-1==key.indexOf(coded.charAt(i))?(ltr=coded.charAt(i),link+=ltr):(ltr=(key.indexOf(coded.charAt(i))-shift+key.length)%key.length,link+=key.charAt(ltr));document.write("<a href='mailto:"+link+"'>"+link+"</a>");
+<script type="text/javascript" language="javascript">
+	// http://www.jottings.com/obfuscator/ --> UglifyJS
+	for(coded="ua@O3Gz.WFl",key="xk8feV3NUSHWLqv9J7DKd1AmyGwT4iszMjQFXo0Iarl5OPnhR6cCYZgBbpu2Et",shift=coded.length,link="",i=0;i<coded.length;i++)-1==key.indexOf(coded.charAt(i))?(ltr=coded.charAt(i),link+=ltr):(ltr=(key.indexOf(coded.charAt(i))-shift+key.length)%key.length,link+=key.charAt(ltr));document.write("<a href='mailto:"+link+"'>"+link+"</a>");
 </script>
 
 [vimeo](https://vimeo.com/juanpablovillegas) / [fb](https://www.facebook.com/juan.p.villegas.96) / [flickr]()
