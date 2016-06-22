@@ -1,6 +1,6 @@
 +++
 date = "2015-05-31T22:40:32-05:00"
-featuredimage = "http://loremflickr.com/800/600?random=2"
+featuredimage = "/img/600-1.jpg"
 title = "canal"
 
 +++

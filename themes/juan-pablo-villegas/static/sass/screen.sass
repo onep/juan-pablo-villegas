@@ -131,19 +131,20 @@ nav dl
       width: 220px
 
 dd.featured-image
-  img
-    object-fit: cover
-    font-family: 'object-fit: cover;'
-    display: none
-    &.visible-image
-      display: inline-block
+  // img
+  //   object-fit: cover
+  //   font-family: 'object-fit: cover;'
+  //   display: none
+  //   &.visible-image
+  //     display: inline-block
   // &.hidden-featured-image
     // opacity: 0
-  +single-transition(opacity, .5s, ease-in)
+  // +single-transition(opacity, .5s, ease-in)
   overflow: hidden
   background-size: cover
+  opacity: 0
   // background: url(http://placehold.it/160x90) no-repeat center center
-  background-color: black
+  // background-color: black
   $viewport-height-adj: calc(100vh - 15em)
   +at(1)
     display: none

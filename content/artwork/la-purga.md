@@ -1,6 +1,6 @@
 +++
 date = "2015-05-31T22:40:25-05:00"
-featuredimage = "http://loremflickr.com/800/600?random=6"
+featuredimage = "/img/600-5.jpg"
 title = "la purga"
 
 +++

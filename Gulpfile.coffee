@@ -33,8 +33,6 @@ moduleImports = _.map([
   'sticky-kit/dist/sticky-kit.js'
   'ismobilejs/isMobile.js'
   'enquire.js/dist/enquire.js'
-  'pre-loader/pre-loader.js'
-  'object-fit-images/dist/ofi.browser.js'
 ], (str) -> "node_modules/" + str)
 
 localImports = _.map([
