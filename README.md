@@ -24,7 +24,6 @@ Todo
 
 - Fira Sans?
 - type rendering mix?
-- Susy grids?
 - google cloud storage upload, gulp prod upload o con git?
 - iam access juan pablo y yo
 - google analytics

@@ -1,9 +1,7 @@
-# Load all required libraries.
 _          = require 'lodash'
 gulp       = require 'gulp'
 plumber    = require 'gulp-plumber'
 compass    = require 'gulp-compass'
-cleanCSS  = require 'gulp-clean-css'
 ts         = require 'gulp-typescript'
 browserify = require 'browserify'
 source     = require 'vinyl-source-stream'
@@ -14,11 +12,10 @@ tsify      = require 'tsify'
 uglify     = require 'gulp-uglify'
 modernizr  = require 'gulp-modernizr'
 concat     = require 'gulp-concat'
-rename     = require 'gulp-rename'
 walkSync   = require 'walk-sync'
-debug  = require 'gulp-debug'
+debug      = require 'gulp-debug'
 browserifyInc = require 'browserify-incremental'
-modernizrJson = require('./modernizr.json')
+modernizrJson = require './modernizr.json'
 
 theme = 'themes/juan-pablo-villegas/static'
 paths =

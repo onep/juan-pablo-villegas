@@ -76,17 +76,29 @@ a
   height: 0
   overflow: hidden
   +to(2)
-    +leader(2, $ms-base, margin)
-    +trailer(2, $ms-base, margin)
+    +leader(1, $ms-base, margin)
+    +trailer(1, $ms-base, margin)
   +from(3)
-    +leader(2, $ms-base-next, margin)
-    +trailer(2, $ms-base-next, margin)
+    +leader(1, $ms-base-next, margin)
+    +trailer(1, $ms-base-next, margin)
   iframe
     position: absolute
     top: 0
     left: 0
     width: 100%
     height: 100%
+
+.center
+  text-align: center
+.right
+  text-align: right
+.justify
+  text-align: justify
+
+.content-wrapper img
+  &.full
+    width: 100%
+  
 
 nav dl
   +leader(2, $ms-base, margin)
@@ -135,13 +147,13 @@ nav dl
       dt
         text-align: right
         +leader(3, $ms-base-next, padding)
-      dd.featured-image
+      // dd.featured-image
     .pieces
       +to(2)
         +leader(2, $ms-base, margin)
       +from(3)
         +leader(2, $ms-base-next, margin)
-        dd
+        // dd
 
 .english
   opacity: .6
