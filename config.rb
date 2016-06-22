@@ -1,4 +1,3 @@
-require 'susy'
 require 'modular-scale'
 require 'breakpoint-slicer'
 
