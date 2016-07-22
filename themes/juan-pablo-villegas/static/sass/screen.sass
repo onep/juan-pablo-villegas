@@ -1,7 +1,7 @@
 @import 'init'
 @import "compass/css3/selection"
 
-$accent-color: hsla(212, 100%, 50%, 1)
+$accent-color: adjust-hue(hsla(212, 100%, 50%, 1), 30)
 $text-color: hsla(212, 10%, 30%, 1)
 
 // Text selection color
@@ -32,12 +32,14 @@ $wrapper-mid-margin: .0870
     &:link, &:visited
       text-decoration: none
       color: $text-color
-      .no-ismobile &, .ismobile &, 
-        text-decoration: none
-        color: $text-color
-    &:focus, &:hover
+      // color: shade(desaturate($accent-color, 5%), 5%)
+      .ismobile &
+        text-decoration: underline
+        color: shade($accent-color, 20%)
+    &:hover, &:link:hover, &:focus
+      text-decoration: underline
       .no-ismobile &
-        color: tint($text-color, 20%)
+        color: shade($accent-color, 20%)
     &:active
       color: shade($accent-color, 30%)
       text-decoration: underline
@@ -56,12 +58,26 @@ a
     article &
       color: desaturate(tint($accent-color, 5%), 50%)
       text-decoration: underline
+  // &:visited
+  //   color: shade(desaturate(adjust-hue($accent-color, 50), 30%), 15%)
+  //   article &
+  //     color: shade(desaturate(adjust-hue($accent-color, 50), 50%), 15%)
+  // &:link:hover
+  //   .no-ismobile &
+  //     color: tint($text-color, 20%)
+  //   nav &
+  //     .no-ismobile &
+  //       text-decoration: underline
+  //       color: shade(desaturate($accent-color, 50%), 20%)
+  // &:visited:hover
+  //   color: shade(desaturate(adjust-hue($accent-color, 50), 50%), 20%)
   &:focus, &:hover
     .no-ismobile &
       color: tint($text-color, 20%)
     nav &
       .no-ismobile &
         text-decoration: underline
+    
   &:active
     color: shade($accent-color, 30%)
     text-decoration: underline
@@ -153,7 +169,9 @@ nav dl
         +leader(2, $ms-base, margin)
       +from(3)
         +leader(2, $ms-base-next, margin)
-        // dd
+        dd
+          a 
+            word-wrap: break-word
 
 .english
   opacity: .6

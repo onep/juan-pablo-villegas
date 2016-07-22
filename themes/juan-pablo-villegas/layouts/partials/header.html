@@ -34,8 +34,8 @@
         <div class="wrapper">
             <header>
                 {{ if .IsHome }}
-                    <h4 class="site-title"><a href='{{ .Site.BaseURL }}about'>{{ .Site.Title }}</a></h4>
+                    <h6 class="site-title"><a href='{{ .Site.BaseURL }}about'>{{ .Site.Title }}</a></h6>
                 {{ else }}
-                    <h4 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h4>
+                    <h6 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h6>
                 {{ end }}
             </header>
