@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan-Pablo Villegas</title>
-    <link>http://jpvd.xyz/</link>
+    <link>http://www.jpvd.xyz/</link>
     <description>Recent content on Juan-Pablo Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jun 2016 20:35:19 -0500</lastBuildDate>
-    <atom:link href="http://jpvd.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.jpvd.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://jpvd.xyz/about/</link>
+      <link>http://www.jpvd.xyz/about/</link>
       <pubDate>Fri, 10 Jun 2016 20:35:19 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/about/</guid>
+      <guid>http://www.jpvd.xyz/about/</guid>
       <description>&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
 &lt;p&gt;MX, 1986&lt;/p&gt;
@@ -25,9 +25,9 @@
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jpvd.xyz/files/cv.pdf&#34;&gt;cv{.}pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jpvd.xyz/files/cv.pdf&#34;&gt;cv{.}pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://jpvd.xyz/files/bio.pdf&#34;&gt;bio{.}pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jpvd.xyz/files/bio.pdf&#34;&gt;bio{.}pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt;
     // http://www.jottings.com/obfuscator/ --&gt; UglifyJS
@@ -40,10 +40,10 @@
     
     <item>
       <title>canto</title>
-      <link>http://jpvd.xyz/2016/canto/</link>
+      <link>http://www.jpvd.xyz/2016/canto/</link>
       <pubDate>Tue, 31 May 2016 22:40:16 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/canto/</guid>
+      <guid>http://www.jpvd.xyz/2016/canto/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -55,10 +55,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>hola victor</title>
-      <link>http://jpvd.xyz/2016/hola-victor/</link>
+      <link>http://www.jpvd.xyz/2016/hola-victor/</link>
       <pubDate>Tue, 31 May 2016 22:40:12 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/hola-victor/</guid>
+      <guid>http://www.jpvd.xyz/2016/hola-victor/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -70,10 +70,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>stand by</title>
-      <link>http://jpvd.xyz/2016/stand-by/</link>
+      <link>http://www.jpvd.xyz/2016/stand-by/</link>
       <pubDate>Tue, 31 May 2016 22:40:07 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/stand-by/</guid>
+      <guid>http://www.jpvd.xyz/2016/stand-by/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -85,10 +85,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>al interior</title>
-      <link>http://jpvd.xyz/2016/al-interior/</link>
+      <link>http://www.jpvd.xyz/2016/al-interior/</link>
       <pubDate>Tue, 31 May 2016 22:39:19 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/al-interior/</guid>
+      <guid>http://www.jpvd.xyz/2016/al-interior/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -100,10 +100,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>presencia</title>
-      <link>http://jpvd.xyz/2016/presencia/</link>
+      <link>http://www.jpvd.xyz/2016/presencia/</link>
       <pubDate>Tue, 31 May 2016 20:16:52 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/presencia/</guid>
+      <guid>http://www.jpvd.xyz/2016/presencia/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -115,10 +115,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>prueba</title>
-      <link>http://jpvd.xyz/2016/prueba/</link>
+      <link>http://www.jpvd.xyz/2016/prueba/</link>
       <pubDate>Wed, 06 Jan 2016 19:40:26 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2016/prueba/</guid>
+      <guid>http://www.jpvd.xyz/2016/prueba/</guid>
       <description>
 &lt;div class=&#34;vimeo&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/117913430&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -193,10 +193,10 @@ fetum; fumida ora cepi postquam? Cortex quisque, venit venenum.&lt;/p&gt;
     
     <item>
       <title>fe</title>
-      <link>http://jpvd.xyz/2015/fe/</link>
+      <link>http://www.jpvd.xyz/2015/fe/</link>
       <pubDate>Sun, 31 May 2015 23:15:31 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2015/fe/</guid>
+      <guid>http://www.jpvd.xyz/2015/fe/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -208,10 +208,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>hb</title>
-      <link>http://jpvd.xyz/2015/hb/</link>
+      <link>http://www.jpvd.xyz/2015/hb/</link>
       <pubDate>Sun, 31 May 2015 22:40:36 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2015/hb/</guid>
+      <guid>http://www.jpvd.xyz/2015/hb/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -223,10 +223,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>canal</title>
-      <link>http://jpvd.xyz/2015/canal/</link>
+      <link>http://www.jpvd.xyz/2015/canal/</link>
       <pubDate>Sun, 31 May 2015 22:40:32 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2015/canal/</guid>
+      <guid>http://www.jpvd.xyz/2015/canal/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -238,10 +238,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>tele</title>
-      <link>http://jpvd.xyz/2015/tele/</link>
+      <link>http://www.jpvd.xyz/2015/tele/</link>
       <pubDate>Sun, 31 May 2015 22:40:29 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2015/tele/</guid>
+      <guid>http://www.jpvd.xyz/2015/tele/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -253,10 +253,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>la purga</title>
-      <link>http://jpvd.xyz/2015/la-purga/</link>
+      <link>http://www.jpvd.xyz/2015/la-purga/</link>
       <pubDate>Sun, 31 May 2015 22:40:25 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2015/la-purga/</guid>
+      <guid>http://www.jpvd.xyz/2015/la-purga/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -268,10 +268,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>prueba13</title>
-      <link>http://jpvd.xyz/2014/prueba13/</link>
+      <link>http://www.jpvd.xyz/2014/prueba13/</link>
       <pubDate>Mon, 09 Jun 2014 23:08:36 -0500</pubDate>
       
-      <guid>http://jpvd.xyz/2014/prueba13/</guid>
+      <guid>http://www.jpvd.xyz/2014/prueba13/</guid>
       <description></description>
     </item>
     

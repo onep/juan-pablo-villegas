@@ -5,7 +5,7 @@ name = "juan-pablo-villegas"
 license = "MIT"
 licenselink = "https://github.com/aficiomaquinas/juan-pablo-villegas/blob/master/LICENSE"
 description = "Artist portfolio"
-homepage = "http://jpvd.xyz/"
+homepage = "http://www.jpvd.xyz/"
 min_version = 0.14
 
 [author]
