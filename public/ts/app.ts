@@ -1,7 +1,10 @@
 declare var isMobile: any;
 declare var enquire: any;
+interface JQuery {
+    stick_in_parent():void;
+}
 
-class App {
+class JpvdApp {
     imgArr:Array<any> = [];
     siblingArray(arr:Array<any>, key:string, match:string) {
         let matches;
@@ -76,6 +79,6 @@ class App {
     }
 }
 
-let app:App = new App;
-app.init();
+let jpvdApp:JpvdApp = new JpvdApp;
+jpvdApp.init();
 

@@ -21,14 +21,13 @@ Installation
 Running locally
 __
 
-- http://localhost:1313
+- `hugo server --verbose`
+- Browse http://localhost:1313
 
 Building
 __
 
 ```
 cd /Users/juanpi/Documents/Web/juan-pablo-villegas
-hugo server
-hugo
-gsutil rsync -rd /Users/juanpi/Documents/Web/juan-pablo-villegas/public/  gs://www.jpvd.xyz
+make
 ```
