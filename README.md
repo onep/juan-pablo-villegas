@@ -18,12 +18,17 @@ Installation
 - npm install
 - bundle install
 
+Running locally
+__
 
-Todo
---
+- http://localhost:1313
 
-- Fira Sans?
-- type rendering mix?
-- google cloud storage upload, gulp prod upload o con git?
-- iam access juan pablo y yo
-- google analytics
+Building
+__
+
+```
+cd /Users/juanpi/Documents/Web/juan-pablo-villegas
+hugo server
+hugo
+gsutil rsync -rd /Users/juanpi/Documents/Web/juan-pablo-villegas/public/  gs://www.jpvd.xyz
+```

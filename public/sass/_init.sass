@@ -10,8 +10,8 @@ $slicer-breakpoints: 0 480px 768px 1024px 1224px 1824px
 // Modular Scale
 $ms-base: 16px
 $ms-base-next: 18px
-$ms-ratio: 1.25
-$ms-ratio-next: 1.333
+$ms-ratio: 1.0
+$ms-ratio-next: 1.0
 
 // Compass Vertical Rhythm Settings
 $base-font-size: $ms-base // Sets the base font size
@@ -25,6 +25,7 @@ $h3-fz: ms(3)
 $h4-fz: ms(2)
 $h5-fz: ms(1)
 $h6-fz: ms(0)
+$h7-fz: ms(-1)
 
 +to(2)
   +establish-baseline
@@ -40,6 +41,8 @@ $h6-fz: ms(0)
     +adjust-font-size-to($h5-fz)
   h6
     +adjust-font-size-to($h6-fz)
+  small
+    +adjust-font-size-to($h7-fz)
   nav dl
     dd, dt
       +adjust-font-size-to($h6-fz, 2)
@@ -58,6 +61,8 @@ $h6-fz: ms(0)
     +adjust-font-size-to(ms(1, $ms-base-next, $ms-ratio))
   h6
     +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio))
+  small
+    +adjust-font-size-to(ms(-1, $ms-base-next, $ms-ratio))
   nav dl
     dd, dt
       +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio), 2)
@@ -77,6 +82,8 @@ $h6-fz: ms(0)
     +adjust-font-size-to(ms(1, $ms-base-next, $ms-ratio-next))
   h6
     +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio-next))
+  small
+    +adjust-font-size-to(ms(-1, $ms-base-next, $ms-ratio-next))
   nav dl
     dd, dt
       +adjust-font-size-to(ms(0, $ms-base-next, $ms-ratio-next), 2)

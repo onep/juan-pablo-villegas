@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Juan Pablo Villegas</title>
+    <title>Pages on Juan-Pablo Villegas</title>
     <link>http://jpvd.xyz/page/</link>
-    <description>Recent content in Pages on Juan Pablo Villegas</description>
+    <description>Recent content in Pages on Juan-Pablo Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jun 2016 20:35:19 -0500</lastBuildDate>
@@ -29,7 +29,10 @@
 
 &lt;p&gt;&lt;a href=&#34;http://jpvd.xyz/files/bio.pdf&#34;&gt;bio{.}pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;mailto:hi@jpvd.xyz&#34;&gt;hi{a}jpvd{.}xyz&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&#34;text/javascript&#34; language=&#34;javascript&#34;&gt;
+    // http://www.jottings.com/obfuscator/ --&gt; UglifyJS
+    for(coded=&#34;ua@O3Gz.WFl&#34;,key=&#34;xk8feV3NUSHWLqv9J7DKd1AmyGwT4iszMjQFXo0Iarl5OPnhR6cCYZgBbpu2Et&#34;,shift=coded.length,link=&#34;&#34;,i=0;i&lt;coded.length;i++)-1==key.indexOf(coded.charAt(i))?(ltr=coded.charAt(i),link+=ltr):(ltr=(key.indexOf(coded.charAt(i))-shift+key.length)%key.length,link+=key.charAt(ltr));document.write(&#34;&lt;a href=&#39;mailto:&#34;+link+&#34;&#39;&gt;&#34;+link+&#34;&lt;/a&gt;&#34;);
+&lt;/script&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://vimeo.com/juanpablovillegas&#34;&gt;vimeo&lt;/a&gt; / &lt;a href=&#34;https://www.facebook.com/juan.p.villegas.96&#34;&gt;fb&lt;/a&gt; / [flickr]()&lt;/p&gt;
 </description>
