@@ -1,7 +1,7 @@
 +++
 date = "2016-05-31T22:40:12-05:00"
 featuredimage = "/img/600-6.jpg"
-title = "opaco"
+title = "hola victor"
 
 +++
 
