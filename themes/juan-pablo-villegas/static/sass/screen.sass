@@ -28,6 +28,12 @@ $wrapper-mid-margin: .0870
     max-width: 1224px -(1224px * 2 * $wrapper-mid-margin)
 
 .site-title
+  +to(1)
+    +leader(1, $ms-base, margin)
+  +at(2)
+    +leader(2, $ms-base, margin)
+  +from(3)
+    +leader(2, $ms-base-next, margin)
   a
     &:link, &:visited
       text-decoration: none
