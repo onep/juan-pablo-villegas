@@ -36,12 +36,7 @@ To-do
 --
 
 - icons
-- optimize css delivery
-- https://github.com/filamentgroup/loadCSS
-- https://github.com/addyosmani/critical
 - evitar flash de css en links antes de que entre js
-- figure out caching (page speed)
+- figure out why pagespeed ignores caching
 - Fix FOIC: https://www.lockedowndesign.com/load-google-fonts-asynchronously-for-page-speed/
 - Microformats and metadata for SEO
-- optimize images before uploading
-- images caching and mime types
