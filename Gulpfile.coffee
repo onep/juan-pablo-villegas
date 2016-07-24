@@ -15,6 +15,8 @@ concat     = require 'gulp-concat'
 walkSync   = require 'walk-sync'
 debug      = require 'gulp-debug'
 imagemin   = require 'gulp-imagemin'
+critical   = require('critical').stream
+processhtml   = require 'gulp-processhtml'
 browserifyInc = require 'browserify-incremental'
 modernizrJson = require './modernizr.json'
 
@@ -37,6 +39,15 @@ moduleImports = _.map([
 localImports = _.map([
   'modernizr.js'
   'bundle.js'
+], (str) -> paths.js + "/" + str)
+
+inlineModuleImports = _.map([
+  'fg-loadcss/src/loadCSS.js'
+  'fg-loadcss/src/cssrelpreload.js'
+], (str) -> "node_modules/" + str)
+
+inlineLocalImports = _.map([
+  'google-fonts-analytics.js'
 ], (str) -> paths.js + "/" + str)
 
 customOpts = {
@@ -84,6 +95,47 @@ gulp.task 'concat', ['browserify'], ->
     .pipe sourcemaps.write('.')
     .pipe gulp.dest(paths.js)
 
+gulp.task 'critical-css', ->
+  gulp.src 'public/index.html'
+    .pipe critical
+      base: 'public/'
+      minify: true
+      dimensions: [{
+          height: 640,
+          width: 480
+      }, {
+          height: 900,
+          width: 900
+      }, {
+          height: 900,
+          width: 1024
+      }, {
+          height: 900,
+          width: 1224
+      }, {
+          height: 900,
+          width: 1824
+      }]
+      css: ['public/css/screen.css']
+    .pipe gulp.dest paths.css + '/critical'
+
+gulp.task 'concat-inline-js', ->
+  arr = [inlineModuleImports..., inlineLocalImports...]
+  # console.log arr
+  gulp.src arr
+    .pipe concat('inline.js')
+    .pipe buffer()
+    .pipe sourcemaps.init({loadmaps: true})
+    .pipe uglify()
+    .on('error', gutil.log.bind(gutil, 'Uglify error:'))
+    .pipe sourcemaps.write('.')
+    .pipe gulp.dest(paths.js)
+
+gulp.task 'processhtml', ['concat-inline-js', 'critical-css'], ->
+  gulp.src theme + '/../layouts/partials-proto/*.html'
+    .pipe processhtml({})
+    .pipe gulp.dest theme + '/../layouts/partials'
+
 
 gulp.task 'compass', ->
   gulp.src paths.sass
@@ -102,7 +154,7 @@ gulp.task 'compass', ->
 gulp.task 'imagemin', ->
   gulp.src paths.img + '/*'
     .pipe imagemin()
-    .pipe gulp.dest 'public/img'
+    .pipe gulp.dest paths.img
 
 
 gulp.task 'js', ['browserify', 'concat']
@@ -110,7 +162,10 @@ gulp.task 'js', ['browserify', 'concat']
 gulp.task 'watch', ->
   gulp.watch theme + '/sass/**/*.{sass,scss}', ['compass']
   gulp.watch theme + '/ts/**/*.ts', ['js']
+  gulp.watch theme + '/../layouts/partials-proto/*.html', ['processhtml']
+  gulp.watch paths.img + '/*', ['imagemin']
   gulp.watch 'modernizr.json', ['modernizr', 'js']
 
-gulp.task 'default', ['compass', 'js', 'watch']
 gulp.task 'build', ['compass', 'js']
+gulp.task 'default', ['build', 'watch']
+gulp.task 'deep', ['modernizr', 'imagemin', 'processhtml', 'build']
