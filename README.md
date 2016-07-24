@@ -37,6 +37,5 @@ To-do
 
 - icons
 - evitar flash de css en links antes de que entre js
-- figure out why pagespeed ignores caching
 - Fix FOIC: https://www.lockedowndesign.com/load-google-fonts-asynchronously-for-page-speed/
 - Microformats and metadata for SEO

@@ -14,8 +14,8 @@
         <!-- build:css inline ../../static/css/critical/index.css -->
         <!-- /build -->
 
-        <link rel="preload" href="{{ .Site.BaseURL }}css/screen.css" as="style" onload="this.rel='stylesheet'">
-        <noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}css/screen.css"></noscript>
+        <link rel="preload" href="{{ .Site.BaseURL }}css/screen.css?rev={{ .Now.Unix }}" as="style" onload="this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}css/screen.css?rev={{ .Now.Unix }}"></noscript>
     </head>
     <body>
         <!--[if lt IE 8]>

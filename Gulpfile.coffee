@@ -136,7 +136,6 @@ gulp.task 'processhtml', ['concat-inline-js', 'critical-css'], ->
     .pipe processhtml({})
     .pipe gulp.dest theme + '/../layouts/partials'
 
-
 gulp.task 'compass', ->
   gulp.src paths.sass
     .pipe plumber

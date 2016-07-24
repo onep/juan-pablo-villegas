@@ -2,7 +2,7 @@
         <footer></footer>
         <!-- build:js inline ../../static/js/inline.js -->
         <!-- /build -->
-        <script src="{{ .Site.BaseURL }}js/concat.js"></script>
+        <script src="{{ .Site.BaseURL }}js/concat.js?rev={{ .Now.Unix }}"></script>
         <script src="https://www.google-analytics.com/analytics.js" async defer></script>
     </body>
 </html>
