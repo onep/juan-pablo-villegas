@@ -14,6 +14,7 @@ modernizr  = require 'gulp-modernizr'
 concat     = require 'gulp-concat'
 walkSync   = require 'walk-sync'
 debug      = require 'gulp-debug'
+imagemin   = require 'gulp-imagemin'
 browserifyInc = require 'browserify-incremental'
 modernizrJson = require './modernizr.json'
 
@@ -23,6 +24,7 @@ paths =
   ts:   theme + '/ts/**/*.ts'
   css:  theme + '/css'
   js:   theme + '/js'
+  img:  theme + '/img'
   bundleName:   'bundle.js'
 
 moduleImports = _.map([
@@ -50,9 +52,9 @@ bIncOpts = _.assign({}, browserifyInc.args, customOpts)
 gulp.task 'browserify', () ->
   b = browserifyInc(browserify(bIncOpts), './browserify-cache.json')
 
-  walkSync('typings').forEach (file) ->
-    if (file.match(/\.d\.ts$/))
-      b.add("typings/" + file)
+  # walkSync('typings').forEach (file) ->
+  #   if (file.match(/\.d\.ts$/))
+  #     b.add("typings/" + file)
 
   return b
     .plugin tsify
@@ -96,6 +98,11 @@ gulp.task 'compass', ->
       sass: 'sass'
     .on('error', gutil.log.bind(gutil, 'Compass error:'))
     .pipe gulp.dest paths.css
+
+gulp.task 'imagemin', ->
+  gulp.src paths.img + '/*'
+    .pipe imagemin()
+    .pipe gulp.dest 'public/img'
 
 
 gulp.task 'js', ['browserify', 'concat']

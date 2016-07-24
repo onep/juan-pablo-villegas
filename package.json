@@ -31,6 +31,7 @@
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-debug": "^2.1.2",
+    "gulp-imagemin": "^3.0.2",
     "gulp-modernizr": "^1.0.0-alpha",
     "gulp-plumber": "^1.1.0",
     "gulp-sourcemaps": "^1.6.0",

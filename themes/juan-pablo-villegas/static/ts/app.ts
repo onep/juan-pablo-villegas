@@ -1,7 +1,18 @@
 declare var isMobile: any;
 declare var enquire: any;
-interface JQuery {
-    stick_in_parent():void;
+
+interface JQueryStickyKitSettings {
+    sticky_class?: string;
+    inner_scrolling?: boolean;
+    recalc_every?: number;
+    parent?: string;
+    offset_top?: number;
+    spacer?: string|boolean;
+    bottoming?: boolean
+}
+
+interface JQueryStickyKit extends JQuery {
+    stick_in_parent(settings: JQueryStickyKitSettings):JQueryStickyKit;
 }
 
 class JpvdApp {
@@ -33,7 +44,7 @@ class JpvdApp {
 
         enquire.register("screen and (max-width: 768px)", {
             match: function () {
-                $(".year-image").stick_in_parent({offset_top: 36});
+                (<JQueryStickyKit>$(".year-image")).stick_in_parent({offset_top: 36});
             },
             unmatch: function () {
                 $(".year-image").trigger("sticky_kit:detach");
@@ -53,9 +64,9 @@ class JpvdApp {
                 }
             },
             match: () => {
-                $(".pieces").stick_in_parent({offset_top: 36});
-                $(".year-image").stick_in_parent({bottoming: true, offset_top: 72});
-                $(".year-image dt").stick_in_parent({bottoming: false, offset_top: 0});
+                (<JQueryStickyKit>$(".pieces")).stick_in_parent({offset_top: 36});
+                (<JQueryStickyKit>$(".year-image")).stick_in_parent({bottoming: true, offset_top: 72});
+                (<JQueryStickyKit>$(".year-image dt")).stick_in_parent({bottoming: false, offset_top: 0});
                 if(!isMobile.any) {
                     $("dd a").hover((ev) => {
                         let featuredUrl:string = $(ev.target).attr("data-featured-image-url");
