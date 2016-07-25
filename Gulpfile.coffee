@@ -117,7 +117,29 @@ gulp.task 'critical-css', ->
           width: 1824
       }]
       css: ['public/css/screen.css']
-    .pipe gulp.dest paths.css + '/critical'
+    .pipe gulp.dest paths.css + '/critical-home'
+  gulp.src 'public/2016/prueba/index.html'
+    .pipe critical
+      base: 'public/'
+      minify: true
+      dimensions: [{
+          height: 640,
+          width: 480
+      }, {
+          height: 900,
+          width: 900
+      }, {
+          height: 900,
+          width: 1024
+      }, {
+          height: 900,
+          width: 1224
+      }, {
+          height: 900,
+          width: 1824
+      }]
+      css: ['public/css/screen.css']
+    .pipe gulp.dest paths.css + '/critical-artwork'
 
 gulp.task 'concat-inline-js', ->
   arr = [inlineModuleImports..., inlineLocalImports...]
