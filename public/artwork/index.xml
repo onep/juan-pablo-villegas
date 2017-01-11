@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Artworks on Juan-Pablo Villegas</title>
-    <link>http://www.jpvd.xyz/artwork/</link>
-    <description>Recent content in Artworks on Juan-Pablo Villegas</description>
+    <title>Artwork-rsses on Juan-Pablo Villegas</title>
+    <link>http://www.jpvd.xyz/artwork/index.xml</link>
+    <description>Recent content in Artwork-rsses on Juan-Pablo Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 May 2016 22:40:16 -0500</lastBuildDate>

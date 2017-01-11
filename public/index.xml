@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan-Pablo Villegas</title>
-    <link>http://www.jpvd.xyz/</link>
+    <link>http://www.jpvd.xyz/index.xml</link>
     <description>Recent content on Juan-Pablo Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
