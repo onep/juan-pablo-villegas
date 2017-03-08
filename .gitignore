@@ -1,5 +1,7 @@
 /typings/
 
+public/tmp-*
+
 .sass-cache/
 *.css.map
 
