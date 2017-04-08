@@ -1,10 +1,9 @@
-title = "Juan-Pablo Villegas"
-theme = "juan-pablo-villegas"
 baseurl = "http://www.jpvd.xyz/"
-languageCode = "en-us"
 googleAnalytics = "UA-81206703-1"
+languageCode = "en-us"
 relativeurls = true
-
+theme = "juan-pablo-villegas"
+title = "Juan-Pablo Villegas"
 [permalinks]
-	artwork = "/:year/:title/"
-	page = "/:title/"
+artwork = "/:year/:title/"
+page = "/:title/"
