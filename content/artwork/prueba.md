@@ -4,8 +4,6 @@ featuredimage = "/uploads/600-5.jpg"
 title = "prueba"
 
 +++
-
-
 {{< vimeo 117913430 vimeo >}}
 
 C
