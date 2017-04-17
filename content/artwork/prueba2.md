@@ -5,3 +5,6 @@ featuredimage = "/uploads/600-6.jpg"
 title = "Prueba2"
 
 +++
+
+
+Lorem ipsum
