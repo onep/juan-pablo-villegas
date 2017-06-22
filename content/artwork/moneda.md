@@ -6,7 +6,7 @@ title = "Moneda"
 +++
 
 
-<div>{{&lt; vimeo 117913430 &gt;}}</div>
+<div>{{&lt; vimeo 117913430 vimeo &gt;}}</div>
 
 <span style="font-size: 1rem;">I acquired an archive of 8 mm films and 35 mm slides (about 30 kg of this material), consisting of images of archaeological prehispanic ruins and colonial buildings from various places in Mexico that had previously been used to illustrate various classes at the National Autonomous University of Mexico (UNAM).</span>
 
