@@ -4,7 +4,7 @@ featuredimage = "/uploads/2017/05/28/moneda.gif"
 title = "Moneda"
 
 +++
-{{< vimeo 117913430 vimeo >}}
+{{< vimeo 191961409 vimeo >}}
 
 I acquired an archive of 8 mm films and 35 mm slides (about 30 kg of this material), consisting of images of archaeological prehispanic ruins and colonial buildings from various places in Mexico that had previously been used to illustrate various classes at the National Autonomous University of Mexico (UNAM).
 
