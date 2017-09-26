@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Juan-Pablo Villegas</title>
-    <link>http://www.jpvd.xyz/</link>
-    <description>Recent content on Juan-Pablo Villegas</description>
+    <title>Pages on Juan-Pablo Villegas</title>
+    <link>http://www.jpvd.xyz/page/</link>
+    <description>Recent content in Pages on Juan-Pablo Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Jun 2017 20:35:19 -0500</lastBuildDate>
     
-	<atom:link href="http://www.jpvd.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.jpvd.xyz/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@ My work has developed from thinking about filmmaking, as a way to bring together
     </item>
     
     <item>
-      <title>Moneda</title>
-      <link>http://www.jpvd.xyz/2016/moneda/</link>
-      <pubDate>Thu, 18 Aug 2016 16:53:00 -0500</pubDate>
-      
-      <guid>http://www.jpvd.xyz/2016/moneda/</guid>
-      <description>I acquired an archive of 8 mm films and 35 mm slides (about 30 kg of this material), consisting of images of archaeological prehispanic ruins and colonial buildings from various places in Mexico that had previously been used to illustrate various classes at the National Autonomous University of Mexico (UNAM).
-I worked to extract the silver contained in the film in the form of silver nitrate, using different chemical processes.</description>
-    </item>
-    
-    <item>
       <title>about</title>
       <link>http://www.jpvd.xyz/about/</link>
       <pubDate>Fri, 10 Jun 2016 20:35:19 -0500</pubDate>
@@ -39,15 +29,6 @@ I worked to extract the silver contained in the film in the form of silver nitra
       <guid>http://www.jpvd.xyz/about/</guid>
       <description>MX, 1986
 My work has developed from thinking about filmmaking, as a way to bring together my interest in images and sound. It takes as a starting point the body perception of external stimuli and how that influences our personal and collective experience. The tools I use are derived from audiovisual principles that allow reflection by changing the way they are conventionally used. In recent years, I have researched issues related to translation and the expansion of the sensory spectrum, the animist condition of objects, and the formation of the psychosomatic.</description>
-    </item>
-    
-    <item>
-      <title>Fe</title>
-      <link>http://www.jpvd.xyz/2013/fe/</link>
-      <pubDate>Tue, 01 Jan 2013 13:29:00 -0600</pubDate>
-      
-      <guid>http://www.jpvd.xyz/2013/fe/</guid>
-      <description>Opaco consiste en el montaje de audios recuperados de distintas películas de suspenso, ciencia ficción y terror donde el encuentro con la otredad es considerado como algo que pone en riesgo los límites de la identidad física y mental.</description>
     </item>
     
   </channel>
