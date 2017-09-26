@@ -1,5 +1,6 @@
 +++
 date = "2016-05-31T22:40:12-06:00"
+draft = true
 featuredimage = "/uploads/600-5.jpg"
 title = "prueba"
 
