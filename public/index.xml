@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan-Pablo Villegas</title>
+    <link>http://www.jpvd.xyz/index.xml</link>
+    <description>Recent content on Juan-Pablo Villegas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2016 16:53:00 -0500</lastBuildDate>
+    <atom:link href="http://www.jpvd.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moneda</title>
+      <link>http://www.jpvd.xyz/2016/moneda/</link>
+      <pubDate>Thu, 18 Aug 2016 16:53:00 -0500</pubDate>
+      
+      <guid>http://www.jpvd.xyz/2016/moneda/</guid>
+      <description>
+&lt;div class=&#34;vimeo&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/191961409&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;I acquired an archive of 8 mm films and 35 mm slides (about 30 kg of this material), consisting of images of archaeological prehispanic ruins and colonial buildings from various places in Mexico that had previously been used to illustrate various classes at the National Autonomous University of Mexico (UNAM).&lt;/p&gt;
+
+&lt;p&gt;I worked to extract the silver contained in the film in the form of silver nitrate, using different chemical processes. As the original images disappeared, I documented the residue. Using the extracted silver, I did a mirror.&lt;/p&gt;
+
+&lt;p&gt;This gesture echoes the deep ties between the extraction of precious metals and the historical and economic structure of the Americas. It involves the physical transformation of images with the intention of generating a material reflection of our environment as determined by value and exchange. Mirror as an image.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fe</title>
+      <link>http://www.jpvd.xyz/2013/fe/</link>
+      <pubDate>Tue, 01 Jan 2013 13:29:00 -0600</pubDate>
+      
+      <guid>http://www.jpvd.xyz/2013/fe/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./uploads/2017/04/09/Captura%20de%20pantalla%202016-04-18%20a%20las%2011.18.20.png&#34; class=&#34;full&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opaco&lt;/strong&gt; consiste en el montaje de audios recuperados de distintas películas de suspenso, ciencia ficción y terror donde el encuentro con la otredad es considerado como algo que pone en riesgo los límites de la identidad física y mental.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

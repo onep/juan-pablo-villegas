@@ -1,0 +1,194 @@
+@import 'init'
+@import "compass/css3/selection"
+
+$accent-color: adjust-hue(hsla(212, 100%, 50%, 1), 30)
+$text-color: hsla(212, 10%, 30%, 1)
+
+// Text selection color
+*
+  +selection(desaturate(tint($accent-color, 85%), 40%), tint($text-color, 10%))
+
+html
+  font-family: 'Fira Mono', Consolas, monaco, monospace
+  color: $text-color
+
+h1, h2, h3, h4, h5, h6
+  font-weight: normal
+
+$wrapper-mid-margin: .0870
+
+.wrapper
+  +clearfix
+  +at(1)
+    padding: 0 30px
+  +between(2, 4)
+    margin: 0 $wrapper-mid-margin * 100%
+  +from(5)
+    margin: 0 auto
+    max-width: 1224px -(1224px * 2 * $wrapper-mid-margin)
+
+.site-title
+  +to(1)
+    +leader(1, $ms-base, margin)
+  +at(2)
+    +leader(2, $ms-base, margin)
+  +from(3)
+    +leader(2, $ms-base-next, margin)
+  a
+    &:link, &:visited
+      text-decoration: none
+      color: $text-color
+      // color: shade(desaturate($accent-color, 5%), 5%)
+      .ismobile &
+        text-decoration: underline
+        color: shade($accent-color, 20%)
+    &:hover, &:link:hover, &:focus
+      text-decoration: underline
+      .no-ismobile &
+        color: shade($accent-color, 20%)
+    &:active
+      color: shade($accent-color, 30%)
+      text-decoration: underline
+      .no-ismobile &, .ismobile &, 
+        color: shade($accent-color, 30%)
+        text-decoration: underline
+
+.single-artwork-title
+  +to(2)
+    +leader(1, $ms-base, margin)
+    +trailer(2, $ms-base, margin)
+  +from(3)
+    +leader(1, $ms-base-next, margin)
+    +trailer(2, $ms-base-next, margin)
+
+a
+  &:link, &:visited
+    nav &
+      color: $text-color
+      .no-ismobile &
+        text-decoration: none
+      .ismobile &
+        text-decoration: underline
+    article &
+      color: desaturate(tint($accent-color, 5%), 50%)
+      text-decoration: underline
+  // &:visited
+  //   color: shade(desaturate(adjust-hue($accent-color, 50), 30%), 15%)
+  //   article &
+  //     color: shade(desaturate(adjust-hue($accent-color, 50), 50%), 15%)
+  // &:link:hover
+  //   .no-ismobile &
+  //     color: tint($text-color, 20%)
+  //   nav &
+  //     .no-ismobile &
+  //       text-decoration: underline
+  //       color: shade(desaturate($accent-color, 50%), 20%)
+  // &:visited:hover
+  //   color: shade(desaturate(adjust-hue($accent-color, 50), 50%), 20%)
+  &:focus, &:hover
+    .no-ismobile &
+      color: tint($text-color, 20%)
+    nav &
+      .no-ismobile &
+        text-decoration: underline
+    
+  &:active
+    color: shade($accent-color, 30%)
+    text-decoration: underline
+    .no-ismobile &, .ismobile &, 
+      color: shade($accent-color, 30%)
+      text-decoration: underline
+
+.vimeo
+  position: relative
+  padding-bottom: 56.25%
+  padding-top: 30px
+  height: 0
+  overflow: hidden
+  +to(2)
+    +leader(1, $ms-base, margin)
+    +trailer(1, $ms-base, margin)
+  +from(3)
+    +leader(1, $ms-base-next, margin)
+    +trailer(1, $ms-base-next, margin)
+  iframe
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+
+.center
+  text-align: center
+.right
+  text-align: right
+.justify
+  text-align: justify
+
+.content-wrapper img
+  &.full
+    width: 100%
+  
+
+nav dl
+  +leader(2, $ms-base, margin)
+  .year-box
+    +clearfix
+    +to(2)
+      +leader(3, $ms-base, margin)
+    +from(3)
+      +leader(3, $ms-base-next, margin)
+    .year-image
+      float: right
+      width: calc(100% - 220px)
+      dt
+        text-align: right
+        background-color: white
+    .pieces
+      float: right
+      width: 220px
+
+dd.featured-image
+  // +single-transition(opacity, .5s, ease-in)
+  overflow: hidden
+  background-size: cover !important
+  opacity: 0
+  // background-color: black
+  $viewport-height-adj: calc(100vh - 13em)
+  +at(1)
+    display: none
+  +at(2)
+    max-height: 300px - 18px
+  +from(3)
+    min-height: 300px - 18px
+    max-height: 300px - 18px
+    +breakpoint(min-height 544px)
+      min-height: $viewport-height-adj
+      max-height: $viewport-height-adj
+
+nav dl
+  dd
+    margin: 0
+  .year-box
+    &:first-child
+      margin-top: 0
+    .year-image
+      +leader(-3, $ms-base-next, margin)
+      dt
+        text-align: right
+        +leader(3, $ms-base-next, padding)
+      // dd.featured-image
+    .pieces
+      +to(2)
+        +leader(2, $ms-base, margin)
+      +from(3)
+        +leader(2, $ms-base-next, margin)
+        dd
+          a 
+            word-wrap: break-word
+
+.english
+  opacity: .6
+
+footer
+  padding-bottom: 4em
