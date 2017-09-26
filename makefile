@@ -4,6 +4,7 @@ sync:
 	gsutil -m setmeta -h "Content-Type:text/css" -h "Cache-Control: public, max-age=604800, no-transform" gs://www.jpvd.xyz/css/*.css
 	gsutil -m setmeta -R -h "Cache-Control: public, max-age=604800, no-transform" gs://www.jpvd.xyz/img/
 deep:
+	hugo
 	gulp deep
 	hugo
 all:
