@@ -2,7 +2,7 @@
 hide_body: false
 fields:
 - name: date
-  default: 2016-05-31 22:40:12 -0500
+  default: 2016-06-01 03:40:12 +0000
   label: Date
   type: datetime
   hidden: false
