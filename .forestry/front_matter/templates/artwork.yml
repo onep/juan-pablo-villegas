@@ -1,0 +1,23 @@
+---
+hide_body: false
+fields:
+- name: date
+  default: 2016-05-31 22:40:12 -0500
+  label: Date
+  type: datetime
+  hidden: false
+- name: featuredimage
+  default: "/uploads/600-6.jpg"
+  label: Featuredimage
+  type: file
+  hidden: false
+- name: title
+  default: hola victor
+  label: Title
+  type: text
+  hidden: false
+- name: type
+  default: artwork
+  label: Type
+  type: text
+  hidden: false
