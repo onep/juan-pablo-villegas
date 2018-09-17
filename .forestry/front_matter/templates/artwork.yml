@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/strobe.md
 - content/artwork/nemotecnia.md
 - content/artwork/la-purga.md
 - content/artwork/al-interior.md
