@@ -1,5 +1,5 @@
 +++
-date = "2016-08-18T16:53:00-05:00"
+date = "2017-01-01T16:53:00-06:00"
 featuredimage = "/uploads/2017/05/28/moneda.gif"
 title = "Moneda"
 
