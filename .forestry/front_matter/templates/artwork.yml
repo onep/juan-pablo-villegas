@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/moneda.md
 - content/artwork/subsuelo.md
 - content/artwork/strobe.md
 - content/artwork/nemotecnia.md
@@ -37,5 +38,4 @@ pages:
 - content/artwork/umbral.md
 - content/artwork/canal.md
 - content/artwork/prueba.md
-- content/artwork/moneda.md
 - content/artwork/fe.md
