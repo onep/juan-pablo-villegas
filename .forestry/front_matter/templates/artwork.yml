@@ -1,5 +1,7 @@
 ---
+label: artwork
 hide_body: false
+is_partial: false
 fields:
 - name: date
   default: 2016-06-01 03:40:12 +0000
@@ -21,3 +23,7 @@ fields:
   label: Type
   type: text
   hidden: false
+pages:
+- content/artwork/prueba.md
+- content/artwork/moneda.md
+- content/artwork/fe.md
