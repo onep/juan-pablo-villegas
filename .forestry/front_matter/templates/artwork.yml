@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/presencia.md
 - content/artwork/tele.md
 - content/artwork/stand-by.md
 - content/artwork/opaco.md
