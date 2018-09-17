@@ -1,5 +1,5 @@
 +++
-date = "2017-03-01T13:29:00-06:00"
+date = "2018-08-31T17:00:00-05:00"
 featuredimage = "/uploads/2017/04/08/Captura de pantalla 2016-04-18 a las 11.18.20.png"
 title = "Fe"
 
