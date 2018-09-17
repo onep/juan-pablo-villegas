@@ -3,6 +3,7 @@ date = "2016-06-10T20:35:19-05:00"
 title = "about"
 
 +++
+</br>
 
 Ciudad de México, 1986.
 
