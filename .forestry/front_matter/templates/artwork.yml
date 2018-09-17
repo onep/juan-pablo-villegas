@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/canal.md
 - content/artwork/prueba.md
 - content/artwork/moneda.md
 - content/artwork/fe.md
