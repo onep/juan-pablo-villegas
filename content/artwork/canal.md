@@ -1,5 +1,5 @@
 +++
-date = "2016-06-01T03:40:12.000+00:00"
+date = "2017-10-30T22:40:12-06:00"
 draft = true
 featuredimage = "/uploads/600-6.jpg"
 title = "Canal"
