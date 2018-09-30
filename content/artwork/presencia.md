@@ -4,3 +4,4 @@ featuredimage = "/uploads/600-6.jpg"
 title = "Presencia"
 
 +++
+Presencia is a project in which I explore the body as an object and its formal transformations.
