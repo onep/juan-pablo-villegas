@@ -4,3 +4,4 @@ featuredimage = "/uploads/600-6.jpg"
 title = "Nemotecnia"
 
 +++
+Through a luminous impact an afterimage is imprinted in the retina of the spectator. The image consists of a yantra, a graphic machine to induce hallucinations.
