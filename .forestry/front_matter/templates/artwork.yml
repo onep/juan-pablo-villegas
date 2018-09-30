@@ -24,10 +24,10 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/subsuelo.md
 - content/artwork/moneda.md
 - content/artwork/umbra.md
 - content/artwork/al-interior.md
-- content/artwork/subsuelo.md
 - content/artwork/strobe.md
 - content/artwork/nemotecnia.md
 - content/artwork/la-purga.md
