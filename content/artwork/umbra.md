@@ -1,7 +1,7 @@
 +++
 date = "2018-08-31T17:00:00-05:00"
 featuredimage = "/uploads/600-6.jpg"
-title = "Umbra"
+title = "umbra"
 
 +++
 We perceive color in fragments that oscillate between light and darkness, in a process that gives shape and consistency to our environment. Umbra investigates the way we interpret the qualities of color as a mentally constructed relationship mediated by subjectivity. The segments of Umbra establish a framework of relationships in which "the visible” is a mental elaboration that mixes the concrete and the abstract.
