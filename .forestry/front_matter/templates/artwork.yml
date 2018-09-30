@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/umbra.md
 - content/artwork/moneda.md
 - content/artwork/subsuelo.md
 - content/artwork/strobe.md
