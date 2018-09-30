@@ -1,7 +1,7 @@
 +++
 date = "2018-08-31T17:00:00-05:00"
 featuredimage = "/uploads/600-6.jpg"
-title = "Al Interior"
+title = "al interior"
 
 +++
 Al Interior it is an exhibition for the interior space of a micro SD card. The four projects reflect on the physical condition of memory and the technical and cultural paradoxes that exist in storage devices.
