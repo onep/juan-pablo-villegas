@@ -1,7 +1,7 @@
 +++
 date = "2018-09-03T17:00:00-05:00"
 featuredimage = "/uploads/2017/05/28/moneda.gif"
-title = "Moneda"
+title = "moneda"
 
 +++
 {{< vimeo 191961409 vimeo >}}
