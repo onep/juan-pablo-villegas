@@ -1,7 +1,7 @@
 +++
 date = "2018-09-06T17:00:00-05:00"
 featuredimage = "/uploads/600-6.jpg"
-title = "Canal"
+title = "canal"
 
 +++
 CANAL is a record and a book that researches the sound and visual forms that direct experiences controlled by an emitter. The intention of the project is to frame reality as something that can be built for particular purposes. 
