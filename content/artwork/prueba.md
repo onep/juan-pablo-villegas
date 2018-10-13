@@ -1,6 +1,6 @@
 +++
 date = "2016-05-31T22:40:12-06:00"
-featuredimage = "/uploads/600-5.jpg"
+featuredimage = "/uploads/2018/10/13/sonambulo_1.jpg"
 title = "prueba"
 
 +++
