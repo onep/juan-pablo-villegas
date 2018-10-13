@@ -4,4 +4,4 @@ featuredimage = "/uploads/600-6.jpg"
 title = "stanby"
 
 +++
-Sound piece in which a Shepard tone was reproduced in a concert only in the moments between acts.
+Sound piece in which a Shepard Tone was reproduced in the moments between acts during a concert.
