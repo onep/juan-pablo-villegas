@@ -5,8 +5,6 @@ title = "sonambulo"
 
 +++
 
-{{< vimeo 294936816 vimeo >}}
-
 <iframe src="[https://player.vimeo.com/video/294936816](https://player.vimeo.com/video/294936816 "https://player.vimeo.com/video/294936816")" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="[https://vimeo.com/294936816](https://vimeo.com/294936816 "https://vimeo.com/294936816")">Sonambulo</a> from <a href="[https://vimeo.com/juanpablovillegas](https://vimeo.com/juanpablovillegas "https://vimeo.com/juanpablovillegas")">Juan Pablo Villegas</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
