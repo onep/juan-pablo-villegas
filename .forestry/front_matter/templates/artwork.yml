@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/sonambulo.md
 - content/artwork/al-interior.md
 - content/artwork/subsuelo.md
 - content/artwork/moneda.md
@@ -31,7 +32,6 @@ pages:
 - content/artwork/strobe.md
 - content/artwork/nemotecnia.md
 - content/artwork/la-purga.md
-- content/artwork/sonambulo.md
 - content/artwork/presencia.md
 - content/artwork/tele.md
 - content/artwork/stand-by.md
