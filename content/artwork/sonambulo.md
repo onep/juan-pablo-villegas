@@ -18,3 +18,15 @@ Sleepwalker is an action that translates the fixed image of a painting to that o
 ![](/uploads/2018/10/13/sonambulo_3.jpg)
 
 ![](/uploads/2018/10/13/sonambulo_4.jpg)
+
+Diseño Sonoro : Luis Ortega
+
+Foley Artist : Bas Tokoro
+
+Sonido Directo : Felix Blum
+
+Voz : Rodrigo Ambriz
+
+Música : Fernando Vigueras
+
+Pintura : Manuel Mathar 
