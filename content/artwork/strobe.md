@@ -1,6 +1,6 @@
 +++
 date = "2018-08-31T17:00:00-05:00"
-featuredimage = "/uploads/2018/10/13/strobe_menu_1.gif"
+featuredimage = ""
 title = "strobe"
 
 +++
