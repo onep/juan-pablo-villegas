@@ -1,6 +1,6 @@
 +++
 date = "2018-08-31T17:00:00-05:00"
-featuredimage = ""
+featuredimage = "/uploads/2018/10/14/tele_menu_2-1.png"
 title = "tele"
 
 +++
