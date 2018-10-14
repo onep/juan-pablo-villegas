@@ -12,6 +12,8 @@ Al Interior it is an exhibition for the interior space of a micro SD card. The f
 
 By progressively cutting the Micro SD memory card, the current trend for greater data storage capacity in a smaller space is questioned. The image signals a grid on fire as an anticipated vision of its obsolescence.
 
+{{< vimeo 295045914 vimeo >}}
+
 2\. Bolt
 
 How it would be possible to achieve greater performance? the video Bolt takes us to watch and listen to the obsession to find the optimum condition, the perfection looking forward the disappearance of physical boundaries.
