@@ -48,6 +48,8 @@ Panorámico (Panoramic)
 
 The panoramic window of the exhibition space is a frame to the exterior, in this video the everyday landscape appears rarefied.
 
+{{< vimeo 295063865 vimeo >}}
+
 Restos 2 (Remains 2)
 
 Remains of the action by Rolando Hernández performed outside the exhibition space, the spectators could only see through the museum's windows. Once it was over he entered and reproduced the recorded audio of what had happened outside.
