@@ -4,8 +4,8 @@ featuredimage = ""
 title = "strobe"
 
 +++
-{{< vimeo 117771139 vimeo >}}
-
 Strobe is an audio-visual performance consisting of one stroboscopic light connected to a sequencer.  The intention is to cause a physical reactions in response to rhythmic patterns of sound and light.  One of the psychosomatic consequences implicated is the apparition of phantasmagorical images in the viewer's mind.
+
+{{< vimeo 117771139 vimeo >}}
 
 {{< vimeo 117934746 vimeo >}}
