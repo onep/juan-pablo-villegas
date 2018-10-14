@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/fuente.md
 - content/artwork/sonambulo.md
 - content/artwork/al-interior.md
 - content/artwork/subsuelo.md
