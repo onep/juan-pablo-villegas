@@ -48,9 +48,13 @@ Truco (Trick)
 
 A magician disappears cards with images of paintings of the MAM’s collection that have been borrowed or gone missing.
 
+{{< vimeo 295054297 vimeo >}}
+
 Siniestros (Claims)
 
 Situations -that according to the security employees of the museum- disrupt the everyday of the space.
+
+{{< vimeo 295060689 vimeo >}}
 
 Colección MAM (MAM Collection)
 
