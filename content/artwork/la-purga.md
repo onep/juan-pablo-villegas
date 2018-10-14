@@ -12,9 +12,13 @@ Restos (Remains)
 
 Remains left after a performance with a person practicing witchcraft in the surroundings of the exhibition space. The intention of the shaman was to heal contemporary art from its negative practices of socialisation.
 
+{{< vimeo 295059093 vimeo >}}
+
 Lista Negra (Blacklist)
 
 What is prohibited in the museum?
+
+[https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing](https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing "Lista Negra")
 
 La Inevitable Catástrofe (The Inevitable Disaster)
 
