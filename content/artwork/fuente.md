@@ -4,3 +4,6 @@ featuredimage = "/uploads/600-6.jpg"
 title = "fuente"
 
 +++
+Fuente investigates animism through material interaction.
+
+![](/uploads/2018/10/14/fuente_escultura.jpg)
