@@ -18,6 +18,8 @@ By progressively cutting the Micro SD memory card, the current trend for greater
 
 How it would be possible to achieve greater performance? the video Bolt takes us to watch and listen to the obsession to find the optimum condition, the perfection looking forward the disappearance of physical boundaries.
 
+{{< vimeo 295049423 vimeo >}}
+
 3\. Reverberación (Reverb)
 
 The recording of a minute of silence held inside an anechoic chamber was transferred to different audio formats as vinyl, magnetic tape, optical sound, mp3 and wav.
