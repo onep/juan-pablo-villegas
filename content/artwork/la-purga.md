@@ -69,3 +69,5 @@ Situations -that according to the security employees of the museum- disrupt the 
 Colección MAM (MAM Collection)
 
 Series of photographs printed on materials found in the museum's cellar showing the state of the collection.
+
+![](/uploads/2018/10/14/colecccion_mam_3.jpg)
