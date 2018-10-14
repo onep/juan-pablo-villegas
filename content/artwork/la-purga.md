@@ -24,17 +24,25 @@ La Inevitable Catástrofe (The Inevitable Disaster)
 
 To close the show I decided to carry out the action of burning a portrait of myself painted by Manuel Mathar. After six months of work, the performance attempted a personal liberation of the regulatory system governing my actions inside the institution.
 
+![](/uploads/2018/10/14/lainevitablecatastrofe.jpg)
+
 EVP (Electronic Voice Phenomena)
 
 Series of antennas to listen electronic voice phenomena.
+
+![](/uploads/2018/10/14/Antena1.jpg)
 
 Límite de propiedad (Limits of property)
 
 This action consisted in blocking the conventional entries to the museum while new ones were opened.
 
+![](/uploads/2018/10/14/limite.jpg)
+
 Sin corrección de estilo (No proofreading)
 
 Printed invitation in which I infiltrated a typo approved by different bureaucratic instances of the museum.
+
+![](/uploads/2018/10/14/SinCorreccionEstilo.jpg)
 
 Panorámico (Panoramic)
 
@@ -43,6 +51,8 @@ The panoramic window of the exhibition space is a frame to the exterior, in this
 Restos 2 (Remains 2)
 
 Remains of the action by Rolando Hernández performed outside the exhibition space, the spectators could only see through the museum's windows. Once it was over he entered and reproduced the recorded audio of what had happened outside.
+
+![](/uploads/2018/10/14/Guitarra1.jpg)
 
 Truco (Trick)
 
