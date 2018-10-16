@@ -40,7 +40,7 @@ This action consisted in blocking the conventional entries to the museum while n
 
 Printed invitation in which I infiltrated a typo approved by different bureaucratic instances of the museum.
 
-<img class="full" src="/uploads/2018/10/14/SinCorreccionEstilo1.jpg" alt="Sin Correccion de Estilo">
+<img class="full" src="/uploads/2018/10/14/SinCorreccionEstilo.jpg" alt="Sin Correccion de Estilo">
 
 **Panorámico (Panoramic)**
 
