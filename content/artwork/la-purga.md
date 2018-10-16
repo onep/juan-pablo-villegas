@@ -4,7 +4,7 @@ featuredimage = "/uploads/2018/10/14/lapurga_menu.jpg"
 title = "la purga"
 
 +++
-_The Purge_ was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. La Purga  questioned how subjectivity appropriates a place under strict control as museum. <br/>
+_The Purge_ was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. _La Purga_ questioned how subjectivity appropriates a place under strict control as museum. <br/>
 
 <img class="full" src="/uploads/2018/10/14/Restos_1.jpg" alt="La Inevitable Catastrofe">
 
