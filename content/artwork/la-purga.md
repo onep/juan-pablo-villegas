@@ -8,8 +8,6 @@ _The Purge_ was the title of the research project that took place at the Museo d
 
 <img class="full" src="/uploads/2018/10/16/antiguologo.jpg" alt="Antiguo Logo del MAM">
 
-![](/uploads/2018/10/16/antiguologo.jpg)
-
 **Restos (Remains)**
 
 Remains left after a performance with a person practicing witchcraft in the surroundings of the exhibition space. The intention of the shaman was to heal contemporary art from its negative practices of socialisation.
