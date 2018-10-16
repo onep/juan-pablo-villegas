@@ -30,19 +30,19 @@ EVP (Electronic Voice Phenomena)
 
 Series of antennas to listen electronic voice phenomena.
 
-![](/uploads/2018/10/14/Antena1.jpg)
+<img class="full" src="/uploads/2018/10/14/Antena1.jpg" alt="La Inevitable Catastrofe">
 
 Límite de propiedad (Limits of property)
 
 This action consisted in blocking the conventional entries to the museum while new ones were opened.
 
-![](/uploads/2018/10/14/limite.jpg)
+<img class="full" src="/uploads/2018/10/14/limite.jpg" alt="La Inevitable Catastrofe">
 
 Sin corrección de estilo (No proofreading)
 
 Printed invitation in which I infiltrated a typo approved by different bureaucratic instances of the museum.
 
-![](/uploads/2018/10/14/SinCorreccionEstilo.jpg)
+<img class="full" src="/uploads/2018/10/14/SinCorreccionEstilo1.jpg" alt="Sin Correccion de Estilo">
 
 Panorámico (Panoramic)
 
@@ -54,7 +54,7 @@ Restos 2 (Remains 2)
 
 Remains of the action by Rolando Hernández performed outside the exhibition space, the spectators could only see through the museum's windows. Once it was over he entered and reproduced the recorded audio of what had happened outside.
 
-![](/uploads/2018/10/14/Guitarra1.jpg)
+<img class="full" src="/uploads/2018/10/14/Guitarra1.jpg" alt="Restos 2">
 
 Truco (Trick)
 
@@ -72,4 +72,4 @@ Colección MAM (MAM Collection)
 
 Series of photographs printed on materials found in the museum's cellar showing the state of the collection.
 
-![](/uploads/2018/10/14/colecccion_mam_3.jpg)
+<img class="full" src="/uploads/2018/10/14/[colecccion_mam_3.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/14/colecccion_mam_3.jpg)" alt="">
