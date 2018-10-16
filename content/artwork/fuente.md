@@ -4,8 +4,8 @@ featuredimage = "/uploads/2018/10/16/fuente.gif"
 title = "fuente"
 
 +++
+<img class="full" src="/uploads/2018/10/14/fuente_escultura.jpg" alt="Fuente">
+
 Fuente investigates animism through material interaction.
 
 {{< vimeo 295029992 vimeo >}}
-
-<img class="full" src="/uploads/2018/10/14/fuente_escultura.jpg" alt="Fuente">
