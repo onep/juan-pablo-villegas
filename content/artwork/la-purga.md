@@ -4,7 +4,7 @@ featuredimage = "/uploads/2018/10/14/lapurga_menu.jpg"
 title = "la purga"
 
 +++
-The Purge was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. La Purga  questioned how subjectivity appropriates a place under strict control as museum. <br/>
+_The Purge_ was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. La Purga  questioned how subjectivity appropriates a place under strict control as museum. <br/>
 
 <img class="full" src="/uploads/2018/10/14/Restos_1.jpg" alt="La Inevitable Catastrofe">
 
@@ -16,7 +16,7 @@ Remains left after a performance with a person practicing witchcraft in the surr
 
 **Lista Negra (Blacklist)**
 
-<a href="[https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing](https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing "Lista Negra")" style="font-size: 1rem; background-color: rgb(0, 0, 0); active: white;">What is prohibited in the museum?</a>
+<a href="[https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing](https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing "Lista Negra")" style="font-size: 1rem; background-color: rgb(255, 255, 255); active: white;">What is prohibited in the museum?</a>
 
 **La Inevitable Catástrofe (The Inevitable Disaster)**
 
