@@ -1,10 +1,12 @@
 +++
 date = "2018-09-06T17:00:00-05:00"
-featuredimage = "/uploads/2018/10/16/canal.jpg"
+featuredimage = "/uploads/2018/10/16/canal_menu.jpg"
 title = "canal"
 
 +++
 CANAL is a record and a book that researches the sound and visual forms that direct experiences controlled by an emitter. The intention of the project is to frame reality as something that can be built for particular purposes.
+
+{{< vimeo 290300511 vimeo >}}
 
 <img class="full" src="/uploads/2018/10/16/disco_1.jpg" alt="CANAL">
 
@@ -31,8 +33,6 @@ _Spatial Harmonisation_ is a service offered by music therapists based on the ph
 Hypnosis is used to prepare subjects for procedures that involve imaginative experiences. Hypnotic induction is an extended initial suggestion to use one's imagination, and may contain elaborations subsequent to introduction. A hypnotic procedure is used to incite and evaluate responses to suggestions.
 
 <img class="full" src="/uploads/2018/10/16/effectafect.jpg" alt="effectafect">
-
-{{< vimeo 290300511 vimeo >}}
 
 PATENTE is a book in which I compiled patents of different electronic devices designed to induce specific moods, insert subliminal messages and affect human behaviour.
 
