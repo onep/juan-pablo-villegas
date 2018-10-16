@@ -6,8 +6,6 @@ title = "canal"
 +++
 CANAL is a record and a book that researches the sound and visual forms that direct experiences controlled by an emitter. The intention of the project is to frame reality as something that can be built for particular purposes.
 
-{{< vimeo 290300511 vimeo >}}
-
 <img class="full" src="/uploads/2018/10/16/disco_1.jpg" alt="CANAL">
 
 <img class="full" src="/uploads/2018/10/16/disco_2.jpg" alt="CANAL">
@@ -35,6 +33,8 @@ Hypnosis is used to prepare subjects for procedures that involve imaginative exp
 <img class="full" src="/uploads/2018/10/16/effectafect.jpg" alt="effectafect">
 
 PATENTE is a book in which I compiled patents of different electronic devices designed to induce specific moods, insert subliminal messages and affect human behaviour.
+
+<img class="full" src="/uploads/2018/10/16/libro_0.jpg" alt="PATENTE">
 
 <img class="full" src="/uploads/2018/10/16/libro_1.jpg" alt="PATENTE">
 
