@@ -4,13 +4,15 @@ featuredimage = "/uploads/2018/10/14/lapurga_menu.jpg"
 title = "la purga"
 
 +++
-_The Purge_ was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. _La Purga_ questioned how subjectivity appropriates a place under strict control as museum. <br/>
+_The Purge_ was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. _La Purga_ questioned how subjectivity appropriates a place under strict control as museum.
 
-<img class="full" src="/uploads/2018/10/14/Restos_1.jpg" alt="La Inevitable Catastrofe">
+<img class="full" src="/uploads/2018/10/14/antiguologo.jpg" alt="La Inevitable Catastrofe">
 
 **Restos (Remains)**
 
 Remains left after a performance with a person practicing witchcraft in the surroundings of the exhibition space. The intention of the shaman was to heal contemporary art from its negative practices of socialisation.
+
+<img class="full" src="/uploads/2018/10/14/Restos_1.jpg" alt="La Inevitable Catastrofe">
 
 {{< vimeo 295059093 vimeo >}}
 
