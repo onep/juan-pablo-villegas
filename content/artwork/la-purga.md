@@ -6,11 +6,7 @@ title = "la purga"
 +++
 The Purge was the title of the research project that took place at the Museo de Arte Moderno (MAM) in Mexico City. I investigated the theme of the the uncanny as a will to unravel aspects of architecture, archive, bureaucracy and interaction with the public space. La Purga  questioned how subjectivity appropriates a place under strict control as museum.
 
-<div class="center"> <img src="
-
 ![](/uploads/2018/10/14/Restos_1.jpg)
-
-" alt="Logo Title Text 1"> </div>
 
 Restos (Remains)
 
@@ -28,7 +24,7 @@ La Inevitable Catástrofe (The Inevitable Disaster)
 
 To close the show I decided to carry out the action of burning a portrait of myself painted by Manuel Mathar. After six months of work, the performance attempted a personal liberation of the regulatory system governing my actions inside the institution.
 
-![](/uploads/2018/10/14/lainevitablecatastrofe.jpg)
+<img class="full" src="/uploads/2018/10/14/lainevitablecatastrofe.jpg" alt="La Inevitable Catastrofe">
 
 EVP (Electronic Voice Phenomena)
 
