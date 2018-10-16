@@ -24,6 +24,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/canal.md
 - content/artwork/sonambulo.md
 - content/artwork/al-interior.md
 - content/artwork/fuente.md
@@ -38,6 +39,5 @@ pages:
 - content/artwork/stand-by.md
 - content/artwork/opaco.md
 - content/artwork/umbral.md
-- content/artwork/canal.md
 - content/artwork/prueba.md
 - content/artwork/fe.md
