@@ -72,4 +72,4 @@ Colección MAM (MAM Collection)
 
 Series of photographs printed on materials found in the museum's cellar showing the state of the collection.
 
-<img class="full" src="/uploads/2018/10/14/[colecccion_mam_3.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/14/colecccion_mam_3.jpg)" alt="">
+<img class="full" src="/uploads/2018/10/14/colecccion_mam_3.jpg" alt="Restos 2">
