@@ -26,7 +26,7 @@ Research supports the theory that when different frequencies are presented to ea
 
 _Spatial Harmonisation_ is a service offered by music therapists based on the phenomenon known as persistence in the medium, in which it is posed that every event produces a vibration that does not cease to exist, we just stop perceiving it when it leaves the threshold of perception. These vibrations are stuck in spaces until they are released by specific sounds.
 
-<img class="full" src="/uploads/2018/10/16/persistance.jpg" alt="effectafect">
+<img class="full" src="/uploads/2018/10/16/persistence.jpg" alt="effectafect">
 
 **Induction :**
 
