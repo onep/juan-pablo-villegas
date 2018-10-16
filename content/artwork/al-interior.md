@@ -8,7 +8,7 @@ title = "al interior"
 
 Al Interior it is an exhibition for the interior space of a micro SD card. The four projects reflect on the physical condition of memory and the technical and cultural paradoxes that exist in storage devices.
 
-**1. Retícula (Grid).**
+**1. Retícula (Grid)**
 
 By progressively cutting the Micro SD memory card, the current trend for greater data storage capacity in a smaller space is questioned. The image signals a grid on fire as an anticipated vision of its obsolescence.
 
