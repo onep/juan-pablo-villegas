@@ -8,15 +8,15 @@ _Sleepwalker_ is an action that translates the fixed image of a painting to that
 
 {{< vimeo 294936816 vimeo >}}
 
-<img class="full" src="/uploads/[2018/10/13/sonambulo_9.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_9.jpg)" alt="Sonambulo">
+<img class="full" src="/uploads/2018/10/13/sonambulo_9.jpg" alt="Sonambulo">
 
-<img class="full" src="/uploads/[2018/10/13/](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_9.jpg)[sonambulo_11.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_11.jpg)" alt="Sonambulo">
+<img class="full" src="/uploads/2018/10/13/sonambulo_11.jpg" alt="Sonambulo">
 
-<img class="full" src="/uploads/[2018/10/13/sonambulo_2.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_9.jpg)" alt="Sonambulo">
+<img class="full" src="/uploads/2018/10/13/sonambulo_2.jpg" alt="Sonambulo">
 
-<img class="full" src="/uploads/[2018/10/13/sonambulo_3.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_9.jpg)" alt="Sonambulo">
+<img class="full" src="/uploads/2018/10/13/sonambulo_3.jpg" alt="Sonambulo">
 
-<img class="full" src="/uploads/[2018/10/13/sonambulo_4.jpg](https://qpphudxzranf6g.preview.forestry.io/uploads/2018/10/13/sonambulo_9.jpg)" alt="Sonambulo">
+<img class="full" src="/uploads/2018/10/13/sonambulo_4.jpg" alt="Sonambulo">
 
 Diseño Sonoro : Luis Ortega
 
