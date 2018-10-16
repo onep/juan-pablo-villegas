@@ -18,7 +18,7 @@ Remains left after a performance with a person practicing witchcraft in the surr
 
 What is prohibited in the museum?
 
-[https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing](https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing "Lista Negra")
+<a href="[https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing](https://drive.google.com/drive/folders/1xk4f1L-b57C16mMpG1baG--C3NbCMzzF?usp=sharing "Lista Negra")" style="font-size: 1rem; background-color: rgb(0, 0, 0); font-color: white;">What is prohibited in the museum?</a>
 
 **La Inevitable Catástrofe (The Inevitable Disaster)**
 
