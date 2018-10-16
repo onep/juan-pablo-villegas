@@ -4,7 +4,7 @@ featuredimage = "/uploads/2018/10/16/alinterior.gif"
 title = "al interior"
 
 +++
-![](/uploads/2018/10/14/tarjeta.jpg)
+<img class="full" src="/uploads/2018/10/14/tarjeta.jpg" alt="reticula">
 
 Al Interior it is an exhibition for the interior space of a micro SD card. The four projects reflect on the physical condition of memory and the technical and cultural paradoxes that exist in storage devices.
 
