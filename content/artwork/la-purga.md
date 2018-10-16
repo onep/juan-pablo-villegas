@@ -24,7 +24,7 @@ La Inevitable Catástrofe (The Inevitable Disaster)
 
 To close the show I decided to carry out the action of burning a portrait of myself painted by Manuel Mathar. After six months of work, the performance attempted a personal liberation of the regulatory system governing my actions inside the institution.
 
-<img class="full" src="/uploads/2018/10/14/lainevitablecatastrofe.jpg" alt="La Inevitable Catastrofe">
+<img class="full" src="/uploads/lainevitablecatastrofe.jpg" alt="La Inevitable Catastrofe">
 
 EVP (Electronic Voice Phenomena)
 
