@@ -30,7 +30,7 @@ _Spatial Harmonisation_ is a service offered by music therapists based on the ph
 
 According to French ENT specialist Dr. Alfred Tomatis (1920-2001), abilities such as attention and learning can be improved by retraining the ear to listen to high-frequency sounds. This type of sound provides a good stimulus to the brain’s neurons. According to Dr. Tomatis, once the ear is retrained individuals concentrate better and learn more efficiently.
 
-<img class="full" src="/uploads/2018/10/16/auralscan.jpg" alt="aural scan">
+<img class="full" src="/uploads/2018/10/17/AuralScan_1.jpg" alt="aural scan">
 
 PATENTE is a book in which I compiled patents of different electronic devices designed to induce specific moods, insert subliminal messages and affect human behaviour.
 
