@@ -10,8 +10,6 @@ I acquired an archive of 8 mm films and 35 mm slides (about 30 kg of this materi
 
 The video installation Moneda consists of three videos displayed under a glass floor through which you can see the vestiges of the Ex Convent of San Jeronimo; a silver mirror mounted on a carousel that revolves around the gallery and a publication printed with movable types.
 
-<img class="full" src="/uploads/2018/10/16/archivo1.jpg" alt="Moneda Archivo">
-
 <img class="full" src="/uploads/2018/10/16/install1.jpg" alt="Instalación">
 
 <img class="full" src="/uploads/2018/10/16/install2.jpg" alt="Instalación">
