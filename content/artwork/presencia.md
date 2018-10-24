@@ -4,7 +4,7 @@ featuredimage = "/uploads/2018/10/17/presenciamenu.jpg"
 title = "presencia"
 
 +++
-Presencia is a project in which I explore the body as an object and its formal transformations.
+Presencia is a project in which I explore the body as an object and its formal transformations in time and space.
 
 <img class="full" src="/uploads/2018/10/17/presencia1.jpg" alt="Antiguo Logo del MAM">
 
