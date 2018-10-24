@@ -24,8 +24,8 @@ fields:
   type: text
   hidden: false
 pages:
-- content/artwork/moneda.md
 - content/artwork/subsuelo.md
+- content/artwork/moneda.md
 - content/artwork/umbra.md
 - content/artwork/canal.md
 - content/artwork/sonambulo.md
