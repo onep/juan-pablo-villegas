@@ -4,7 +4,7 @@ featuredimage = "/uploads/2018/10/16/sonambulo.gif"
 title = "sonámbulo"
 
 +++
-_Sleepwalker_ is an action that translates the fixed image of a painting to that of movement in film and displays on site the soundtrack made up of music, effects, voice, direct sound and subtitles. The intention is to show the expansive dimension of sound to break with the aesthetic of the two-dimensional image.
+_Sleepwalker_ is an action that translates the fixed image of a painting to film, the soundtrack compose by music, effects, voice, direct sound and subtitles is produced live. The intention is to show the expansive dimension of sound to break with the aesthetic of the two-dimensional image.
 
 {{< vimeo 294936816 vimeo >}}
 
