@@ -1,4 +1,4 @@
-baseurl = "http://www.jpvd.xyz/"
+baseurl = "https://www.jpvd.xyz/"
 googleAnalytics = "UA-81206703-1"
 languageCode = "en-us"
 relativeurls = true
