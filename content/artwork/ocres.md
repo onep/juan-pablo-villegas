@@ -1,6 +1,6 @@
 +++
 date = 2019-01-01T04:40:12Z
-featuredimage = "/uploads/2020/06/23/juan-pablo-villegas-2c.jpg"
+featuredimage = "/uploads/2020/06/23/juan-pablo-villegas-2.jpg"
 title = "ocres"
 
 +++
