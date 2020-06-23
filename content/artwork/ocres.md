@@ -1,5 +1,5 @@
 +++
-date = 2019-01-02T04:40:12Z
+date = 2020-02-01T04:40:12Z
 featuredimage = "/uploads/2020/06/23/juan-pablo-villegas-2.jpg"
 title = "ocres"
 type = ""
