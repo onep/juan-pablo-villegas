@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Juan-Pablo Villegas</title>
+    <link>http://www.jpvd.xyz/page/</link>
+    <description>Recent content in Pages on Juan-Pablo Villegas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2017 18:12:04 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.jpvd.xyz/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>canal</title>
+      <link>http://www.jpvd.xyz/canal/</link>
+      <pubDate>Tue, 26 Sep 2017 18:12:04 +0000</pubDate>
+      
+      <guid>http://www.jpvd.xyz/canal/</guid>
+      <description>Download</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://www.jpvd.xyz/about/</link>
+      <pubDate>Fri, 10 Jun 2016 20:35:19 -0500</pubDate>
+      
+      <guid>http://www.jpvd.xyz/about/</guid>
+      <description>Ciudad de México, 1986.
+Mi trabajo reflexiona sobre la percepción de los estímulos externos y la manera en que influyen en nuestra experiencia individual y colectiva. En años recientes he investigado sobre temas relacionados con la materialidad de la memoria, la condición animista de los objetos, la formación de lo psicosomático y la fenomenología del sonido.
+cv{.}pdf</description>
+    </item>
+    
+  </channel>
+</rss>
