@@ -1,10 +1,9 @@
 ---
 label: artwork
 hide_body: false
-is_partial: false
 fields:
 - name: date
-  default: 2016-06-01 03:40:12 +0000
+  default: '2016-06-01T03:40:12.000+00:00'
   label: Date
   type: datetime
   hidden: false
@@ -24,20 +23,20 @@ fields:
   type: text
   hidden: false
 pages:
-- content/artwork/moneda.md
-- content/artwork/subsuelo.md
-- content/artwork/umbra.md
-- content/artwork/canal.md
-- content/artwork/sonambulo.md
 - content/artwork/al-interior.md
-- content/artwork/fuente.md
-- content/artwork/strobe.md
-- content/artwork/nemotecnia.md
-- content/artwork/la-purga.md
-- content/artwork/presencia.md
-- content/artwork/tele.md
-- content/artwork/stand-by.md
-- content/artwork/opaco.md
-- content/artwork/umbral.md
-- content/artwork/prueba.md
+- content/artwork/canal.md
 - content/artwork/fe.md
+- content/artwork/fuente.md
+- content/artwork/la-purga.md
+- content/artwork/moneda.md
+- content/artwork/nemotecnia.md
+- content/artwork/opaco.md
+- content/artwork/presencia.md
+- content/artwork/prueba.md
+- content/artwork/sonambulo.md
+- content/artwork/stand-by.md
+- content/artwork/strobe.md
+- content/artwork/subsuelo.md
+- content/artwork/tele.md
+- content/artwork/umbra.md
+- content/artwork/umbral.md
