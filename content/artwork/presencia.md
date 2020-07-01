@@ -5,7 +5,7 @@ title = "presencia"
 type = ""
 
 +++
-Presencia is a project in which I explore the body as an object and its formal transformations in time and space.
+_Presencia_ is a project based on the connections between matter-energy and object-context. Addressing the body as a mutable being constructed by material and immaterial relationships, I made a video and a performance in collaboration with the dancer Stephanie Janaina, showing the symbiotic exchange that occurs between the being and its environment. While the body modifies it’s form the territory is reconstructed, and vice versa.
 
 <img class="full" src="/uploads/2018/10/17/presencia1.jpg" alt="Antiguo Logo del MAM">
 
