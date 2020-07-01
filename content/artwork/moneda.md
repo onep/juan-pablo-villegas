@@ -1,7 +1,8 @@
 +++
-date = "2018-09-06T17:00:00-05:00"
+date = 2020-01-01T06:00:00Z
 featuredimage = "/uploads/2017/05/28/moneda.gif"
 title = "moneda"
+type = ""
 
 +++
 I acquired an archive of 8 mm films and 35 mm slides consisting of images of archaeological pre-hispanic ruins and colonial buildings from various places in Mexico. I worked to extract the silver using different chemical processes. As the original images disappeared, I documented the residue. With the extracted silver, I did a mirror.
