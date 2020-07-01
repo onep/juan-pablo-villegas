@@ -1,7 +1,8 @@
 +++
-date = "2018-08-31T17:00:00-05:00"
+date = 2020-01-01T06:00:00Z
 featuredimage = "/uploads/2018/10/16/sonambulo.gif"
 title = "sonámbulo"
+type = ""
 
 +++
 _Sleepwalker_ is an action that translates the fixed image of a painting to film, the soundtrack compose by music, effects, voice, direct sound and subtitles is produced live. The intention is to show the expansive dimension of sound to break with the aesthetic of the two-dimensional image.
