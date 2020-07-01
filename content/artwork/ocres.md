@@ -5,7 +5,7 @@ title = "ocres"
 type = ""
 
 +++
-There is no natural beauty, nature is made beautiful before our eyes through art. Ocres is a piece that addresses the theme of the landscape as a process filtered by the culture and aesthetics values, for which I made a triptych of photographs of a mine of natural pigments and with the minerals of the land I made a palette of watercolours.
+There is no natural beauty, nature is made beautiful to our eyes through art. Ocres is a piece that addresses the theme of the landscape as a process filtered by the culture and aesthetics values, for which I made a triptych of photographs of a mine of natural pigments and with the minerals of the land I made a palette of watercolors.
 
 <img class="<full" src="/uploads/2020/07/01/ocres_1.jpg" alt="ocres1">
 
