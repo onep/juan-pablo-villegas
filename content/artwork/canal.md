@@ -1,5 +1,5 @@
 +++
-date = 2020-01-01T08:00:00Z
+date = 2020-01-01T07:00:00Z
 featuredimage = "/uploads/2018/10/16/canal_menu.jpg"
 title = "canal"
 type = ""
