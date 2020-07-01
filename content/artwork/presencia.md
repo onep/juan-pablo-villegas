@@ -1,6 +1,6 @@
 +++
 date = 2020-01-01T12:00:00Z
-featuredimage = "/uploads/2018/10/17/presenciamenu.jpg"
+featuredimage = "/uploads/2020/07/01/presencia_still_6.jpg"
 title = "presencia"
 type = ""
 
