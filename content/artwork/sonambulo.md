@@ -1,5 +1,5 @@
 +++
-date = 2020-01-01T06:00:00Z
+date = 2020-01-02T06:00:00Z
 featuredimage = "/uploads/2018/10/16/sonambulo.gif"
 title = "sonámbulo"
 type = ""
