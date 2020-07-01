@@ -11,8 +11,6 @@ Ocre consiste en un tríptico de fotografías realizadas en el sendero de los Oc
 
 <img class="<full" src="/uploads/2020/07/01/ocres_2.jpg" alt="ocres2">
 
-<img class="<full" src="/uploads/2020/07/01/ocres_3.jpg" alt="ocres3">
-
 <img class="<full" src="/uploads/2020/07/01/ocres_4.jpg" alt="ocres4">
 
 <img class="<full" src="/uploads/2020/07/01/ocres_5.jpg" alt="ocres5">
