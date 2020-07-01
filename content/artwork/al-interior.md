@@ -1,7 +1,8 @@
 +++
-date = "2018-08-31T18:00:00-05:00"
+date = 2020-01-01T09:00:00Z
 featuredimage = "/uploads/2018/10/16/alinterior.gif"
 title = "al interior"
+type = ""
 
 +++
 <img class="full" src="/uploads/2018/10/14/tarjeta.jpg" alt="reticula">
