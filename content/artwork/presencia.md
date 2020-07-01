@@ -1,7 +1,8 @@
 +++
-date = "2018-08-31T17:00:00-05:00"
+date = 2020-01-01T12:00:00Z
 featuredimage = "/uploads/2018/10/17/presenciamenu.jpg"
 title = "presencia"
+type = ""
 
 +++
 Presencia is a project in which I explore the body as an object and its formal transformations in time and space.
