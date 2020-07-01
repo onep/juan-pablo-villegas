@@ -5,7 +5,7 @@ title = "ocres"
 type = ""
 
 +++
-Ocre consiste en un tríptico de fotografías realizadas en el sendero de los Ocres en Rousillon, Francia y una paleta de acuarelas hecha con pigmentos naturales extraídos de una mina en el mismo lugar. La pieza aborda la relación lingüística entre objeto y concepto a través del juego de palabras que designan al mismo tiempo un lugar, un material y una gama de colores. La relación tautológica entre los colores del paisaje y los materiales con los que se podría llevar a cabo la representación es otro de los puntos de interés del proyecto.
+There is no natural beauty, nature is made beautiful before our eyes through art. Ocres is a piece that addresses the theme of the landscape as a process filtered by the culture and aesthetics values, for which I made a triptych of photographs of a mine of natural pigments and with the minerals of the land I made a palette of watercolours.
 
 <img class="<full" src="/uploads/2020/07/01/ocres_1.jpg" alt="ocres1">
 
