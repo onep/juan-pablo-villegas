@@ -5,12 +5,16 @@ title = "velas"
 type = ""
 
 +++
-Mirrors are the first photos. Velas is a series of silver nitrate mirrors on colored glass. 
+Mirrors are the first photos. Velas is a series of silver nitrate mirrors on colored glass.
 
-![](/uploads/2020/06/23/juan-pablo-villegas-3h.jpg)
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3i.jpg" alt="VELAS">
 
-![](/uploads/2020/06/23/juan-pablo-villegas-3i.jpg)
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3h.jpg" alt="VELAS">
 
-![](/uploads/2020/06/23/juan-pablo-villegas-3b.jpg)
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3a.jpg" alt="VELAS">
 
-![](/uploads/2020/06/23/juan-pablo-villegas-3d.jpg)
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3b.jpg" alt="VELAS">
+
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3d.jpg" alt="VELAS">
+
+<img class="full" src="/uploads/2020/06/23/juan-pablo-villegas-3c.jpg" alt="VELAS">
