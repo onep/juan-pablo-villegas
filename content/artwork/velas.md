@@ -5,7 +5,7 @@ title = "velas"
 type = ""
 
 +++
-Mirrors are the first photos.
+Mirrors are the first photos. Velas is a series of silver nitrate mirrors on colored glass. 
 
 ![](/uploads/2020/06/23/juan-pablo-villegas-3h.jpg)
 
