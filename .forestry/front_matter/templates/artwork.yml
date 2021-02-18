@@ -23,6 +23,7 @@ fields:
   type: text
   hidden: false
 pages:
+- content/artwork/about-white.md
 - content/artwork/al-interior.md
 - content/artwork/canal.md
 - content/artwork/d-apres-le-jardin.md
