@@ -9,8 +9,6 @@ There is no natural beauty, nature is made beautiful to our eyes through art. Oc
 
 <img class="full" src="/uploads/2020/07/01/ocres_1.jpg" alt="OCRES">
 
-<img class="full" src="/uploads/2020/07/01/ocres_6.jpg" alt="OCRES">
-
 <img class="full" src="/uploads/2020/07/01/ocres_2.jpg" alt="OCRES">
 
 <img class="full" src="/uploads/2020/07/01/ocres_3.jpg" alt="OCRES">
@@ -18,5 +16,3 @@ There is no natural beauty, nature is made beautiful to our eyes through art. Oc
 <img class="full" src="/uploads/2020/07/01/ocres_4.jpg" alt="OCRES">
 
 <img class="full" src="/uploads/2020/07/01/ocres_5.jpg" alt="OCRES">
-
-***
