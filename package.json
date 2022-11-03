@@ -29,7 +29,7 @@
     "enquire.js": "^2.1.1",
     "fg-loadcss": "^1.2.0",
     "fixed-sticky": "^0.1.7",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-debug": "^2.1.2",
